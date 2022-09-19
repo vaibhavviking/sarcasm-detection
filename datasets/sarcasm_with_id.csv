@@ -1,0 +1,1323 @@
+,id,utterance,sarcasm
+0,1_60_1,It's just a privilege to watch your mind at work.,True
+1,1_60_2,It's just a privilege to look at your mind at work.,True
+2,1_70_1,I don't think I'll be able to stop thinking about it.,True
+3,1_70_2,I don't think I can stop thinking about it.,True
+4,1_80_1,"Since it's not bee season, you can have my epinephrine.",False
+5,1_90_1,"Lois Lane is falling, accelerating at an initial rate of 32 feet per second per second. Superman swoops down to save her by reaching out two arms of steel. Miss Lane, who is now traveling at approximately 120 miles an hour, hits them and is immediately sliced into three equal pieces.",False
+6,1_90_2,"Lois Lane is falling, accelerating at an initial rate of 32 feet per second. Superman bows to save her by reaching two steel arms. Miss Lane, who now travels at about 120 miles per hour, hits them and is immediately cut into three equal pieces.",False
+7,1_105_1,I'm just inferring this is a couch because the evidence suggests the coffee table is having a tiny garage sale.,True
+8,1_105_2,I'm just injecting that it's a couch because the evidence suggests that the coffee table has a small garage sale.,True
+9,1_162_1,"Sheldon, if you were a robot, and I knew and you didn't...",False
+10,1_162_2,"Sheldon, if you were a robot, I knew it and you didn't...",False
+11,1_175_1,"If you're compiling a mix CD for a double suicide. Oh, I hope that scratching post is for you.",True
+12,1_175_2,"If you compile a CD for a double suicide, I hope it's for you.",True
+13,1_182_1,No. The dark crescent-shaped patterns under your arms conceal it nicely.,True
+14,1_182_2,"No, the dark patterns growing under your arms hide it well.",True
+15,1_213_1,"How's this? ""Pleased to meet you, Dr. Gablehauser. ""How fortunate for you that the university's ""chosen to hire you, despite the fact ""that you've done no original research in 25 years, ""and instead have written a series of popular books ""that reduce the great concepts of science ""to a series of anecdotes, ""each one dumbed down to accommodate the duration ""of an average bowel movement.",True
+16,1_213_2,"What a chance for you that the university ""has chosen to hire you, despite the fact that you have not done an original research in 25 years, and rather wrote a series of popular books ""that reduce the great concepts of science"" to a series of anecdotes, ""everyone has had fun to accommodate the duration ""of an average intestinal movement.",True
+17,1_276_1,"Yeah, my parents felt that naming me Leonard and putting me in Advanced Placement classes wasn't getting me beaten up enough.",True
+18,1_276_2,My parents thought that naming me Leonard and putting me in advanced placement didn't make me beat enough.,True
+19,1_340_1,"Sure, cut the foreigner in half. There's a billion more where he came from.",True
+20,1_340_2,"Of course, cut the stranger in half, there's a billion more where he comes from.",True
+21,1_410_1,"Leonard, may I present, live from New Delhi, Dr. and Mrs. V. M. Koothrappali.",False
+22,1_410_2,"Leonard, may I introduce you, live from New Delhi, Dr. and Mrs. V. M. Koothrappali.",False
+23,1_427_1,"Well, I'm sorry, too, but there's just no room for you in my wallet.",True
+24,1_427_2,"I'm sorry, too, but there's no room for you in my wallet.",True
+25,1_430_1,"I've got some feelers out. In the meantime, listen to this.",False
+26,1_430_2,"In the meantime, listen to this.",False
+27,1_467_1,That woman looks exactly like the pictures of Princess Panchali in the book. How often does one see a beloved fictional character come to life?,False
+28,1_467_2,This woman looks exactly like the pictures of Princess Panchali in the book. How many times do you see a beloved fictional character materialize?,False
+29,1_506_1,Not to mention you'd have to power down on saturdays.,False
+30,1_506_2,Not to mention the fact that you'd have to turn off on Saturdays.,False
+31,1_507_1,"Well, there's always the possibility that a trash can spontaneously formed around the letter but Occam's rasor would suggest that someone threw it out.",True
+32,1_507_2,"There's always the possibility that a trash can will spontaneously form around the letter, but Occam's razor suggests that someone threw it out.",True
+33,1_533_1,"Technically, yes. But, if you'll notice... It's reversible!",False
+34,1_533_2,"Technically, yes, but if you notice it, it's reversible!",False
+35,1_536_1,Just the latest copy of Applied Particle Physics quarterly.,True
+36,1_536_2,Just the last copy of Particle Physics applied quarterly.,True
+37,1_537_1,"Oh, you know, that is so weird that yours came and mine didn't.",True
+38,1_537_2,"Oh, you know, it's so weird that yours came and mine didn't.",True
+39,1_672_1,Do you think Penny will come here and take care of us?,False
+40,1_672_2,You think Penny's coming to take care of us?,False
+41,1_971_1,"- Now?! - No, after my tongue has swollen to the size of a brisket!",True
+42,1_971_2,"No, after my tongue swollen to the size of a chest!",True
+43,1_1001_1,"What else? Sell it on eBay as ""slightly used.""",False
+44,1_1001_2,"What else? Selling on eBay as ""slightly used.""",False
+45,1_1003_1,"Good idea, sit with her. Hold her, comfort her. And if the moment feels right, see if you can cop a feel.",True
+46,1_1003_2,"And if the moment feels good, see if you can do it.",True
+47,1_1144_1,"Notify the editors of the Oxford English Dictionary. The word ""plenty"" has been redefined to mean ""two.""",True
+48,1_1144_2,"Notify the editors of Oxford English Dictionary. The word ""plenty"" has been redefined to mean ""two"".",True
+49,1_1180_1,"Oh, please. The only way she could make a contribution to science would be if they resumed sending chimps into space.",True
+50,1_1180_2,The only way for her to contribute to science would be to resume sending chimpanzees into space.,True
+51,1_1185_1,I think tonight was a very good start.,False
+52,1_1189_1,"I'm sorry, I am not going back to the Renaissance fair.",False
+53,1_1189_2,"I'm sorry, I'm not going back to the Renaissance fair.",False
+54,1_1262_1,You were very clear. As was everyone else at the table.,False
+55,1_1262_2,Like everyone at the table.,False
+56,1_1296_1,"They gave him an assistant? If I want a new pen, I have to go to the bank with wire cutters.",True
+57,1_1296_2,"If I want a new pen, I have to go to the bank with wire cutters.",True
+58,1_1466_1,"Maybe when I publish it, I'll include an inhaler.",True
+59,1_1466_2,"Maybe when I publish it, I'll add an inhaler.",True
+60,1_1470_1,I don't know. It just died. I'm getting a bunch of static.,False
+61,1_1470_2,"I don't know, he just died, I've got a lot of static stuff.",False
+62,1_1478_1,"Sadly, Mrs. Giselle Wolowitz is sensitive to chlorine. Lucky for her I like my fashion models pruny and bug-eyed.",True
+63,1_1478_2,"Unfortunately, Mrs. Giselle Wolowitz is sensitive to chlorine.",True
+64,1_1484_1,The big deal is that nobody touches food on my plate.,False
+65,1_1484_2,The most important thing is that no one touches the food on my plate.,False
+66,1_1549_1,On a dusty highway just outside Bakersfield. Where do you think? On Mars!,True
+67,1_1549_2,On a dusty highway outside Bakersfield.,True
+68,1_1560_1,How nice. Maybe they can carpool when they visit you in federal prison.,True
+69,1_1560_2,Maybe they can carpool when they visit you in federal jail.,True
+70,1_1627_1,"What do you think I did? I discreetly slipped off the other earring, put it in my pocket and then got the hell out of there!",False
+71,1_1627_2,"I discreetly slipped out of the other earring, put it in my pocket and I got out of there!",False
+72,1_1638_1,The blunt instrument that will be the focus of my murder trial?,True
+73,1_1638_2,The blunt instrument that will be at the center of my murder trial?,True
+74,1_1666_1,Would it work if I just punched you in the face?,False
+75,1_1666_2,Would it work if I hit you in the face?,False
+76,1_1678_1,Answering the question once and for all why Wolowitz bailed out of medical school.,False
+77,1_1678_2,Answering the question once and for all why Wolowitz came out of medical school.,False
+78,1_1722_1,My aunt Marion gave them to me for my 12th birthday.,False
+79,1_1732_1,You were right. Your larynx is terribly inflamed. I've never seen anything like it.,True
+80,1_1732_2,"You were right, your larynx is terribly inflamed, I've never seen anything like it.",True
+81,1_1772_1,"""Dave."" Sounds like Leonard's got a new BFF.",True
+82,1_1772_2,"""Dave."" Looks like Leonard's got a new BFF.",True
+83,1_1798_1,"If you don't like this stuff, let's go next door and build her a bear.",True
+84,1_1798_2,"If you don't like this thing, let's go next door and build him a bear.",True
+85,1_1803_1,"- Maybe I heard you wrong. A lot of words sound like ""yoga.""",True
+86,1_1803_2,- Maybe I didn't hear you.,True
+87,1_1931_1,Why don't you just lie down on the floor and swim there?,True
+88,1_1931_2,Lie down on the floor and swim over there.,True
+89,1_1973_1,I hope I'm a waitress at the Cheesecake Factory for my whole life.,True
+90,1_1973_2,I hope to be a waitress at the Cheesecake plant for my whole life.,True
+91,1_1987_1,"When I didn't pay my bill, the Department of Water and Power thought I would enjoy the ambience.",True
+92,1_1987_2,"When I didn't pay my bill, the Ministry of Water and Energy thought I'd appreciate the atmosphere.",True
+93,1_2075_1,There's no hurry. Tell them more about their secret love for each other.,False
+94,1_2075_2,Tell them more about their secret love for each other.,False
+95,1_2119_1,"Kind of makes you feel more alive, doesn't it?",True
+96,1_2119_2,"It makes you feel more alive, doesn't it?",True
+97,1_2198_1,"Assuming I can keep up this pace, three hours, 11 minutes. Plus however long it takes to conclude this fairly pointless conversation.",True
+98,1_2198_2,"Assuming I can keep up with that, three hours, 11 minutes, plus how long it takes to finish this rather useless conversation.",True
+99,1_2216_1,"Excuse me, but what about me? Why don't I get a shot?",False
+100,1_2216_2,"Excuse me, but what about me?",False
+101,1_2354_1,"So? Do cocaine smugglers write ""cocaine"" on the box?",True
+102,1_2354_2,"Do cocaine smugglers write ""cocaine"" on the box?",True
+103,1_2361_1,Thank you so much for giving me the opportunity to help.,False
+104,1_2420_1,You know this can go on all night. Why don't you just come with us?,False
+105,1_2420_2,You know it can go on all night.,False
+106,1_2423_1,Provided he has already read and is familiar with the reestablishment of the DC multiverse.,False
+107,1_2423_2,Hope he's already read and familiar with the recovery of the multiverse DC.,False
+108,1_2464_1,"You think ""coffee,"" means coffee. That is so sweet.",True
+109,1_2464_2,"You think ""coffee"" is coffee, it's so cute.",True
+110,1_2575_1,"You don't really believe in that superstition, do you?",False
+111,1_2575_2,"You don't really believe in this superstition, do you?",False
+112,1_2580_1,"Okay, here's an idea. What if I change my name and go live with my cousin and her husband, Avi, in Israel?",True
+113,1_2580_2,"What if I change my name and live with my cousin and her husband, Avi, in Israel?",True
+114,1_2614_1,Hardly a day goes by when I don't think about it.,True
+115,1_2614_2,Barely a day passes when I don't think about it.,True
+116,1_2616_1,"Sure, maybe a tableau of me trying to pummel you to death.",True
+117,1_2616_2,"Of course, maybe a picture of me trying to suck you to death.",True
+118,1_2664_1,"Terrific, it's just that... I don't think Penny wants me to go.",False
+119,1_2664_2,"Great, it's just... I don't think Penny wants me to go.",False
+120,1_2669_1,What did you mean when you said you were going to miss me?,False
+121,1_2669_2,What did you mean when you said you'd miss me?,False
+122,1_2778_1,"Ooh, big talk from a man who was once treed by a chicken.",True
+123,1_2778_2,"Oh, a big conversation about a man who was ripped off by a chicken.",True
+124,1_2792_1,"No, I mean, we can always go back to being friends.",False
+125,1_2792_2,"No, I mean, we can always come back to being friends.",False
+126,1_2797_1,It's an iCal download. She can put it right in her phone.,True
+127,1_2797_2,"It's an iCal download, she can put it in her phone.",True
+128,1_2819_1,"You know, I've always wanted to go to a Goth nightclub.",True
+129,1_2819_2,"You know, I always wanted to go to a Goth nightclub.",True
+130,1_2830_1,"No, I'm behind on my Wiki-reading. I'm kind of on a John Grisham kick right now.",False
+131,1_2830_2,"No, I'm late for reading Wiki.",False
+132,1_2837_1,"- Chocolate? - No, I don't want any chocolate!",False
+133,1_2837_2,- I don't want chocolate!,False
+134,1_2842_1,"Oh, you know, Goth stuff. Goth magazines, Goth music.",False
+135,1_2842_2,"Oh, you know, Goth stuff, Goth magazines, Goth music.",False
+136,1_2853_1,"Obviously, waitressing at The Cheese Cake Factory is a complex socio-economic activity that requires a great deal of analysis and planning.",True
+137,1_2853_2,"Obviously, the waitress at Cheese Cake Factory is a complex socio-economic activity that requires a lot of analysis and planning.",True
+138,1_3064_1,When I have enough to destroy all the human toast on the Battlestar known as Galactica.,True
+139,1_3064_2,When I get enough to destroy all the human toasts on the Battlestar known as Galactica.,True
+140,1_3069_1,Seems like an awful lot of trouble to go through for intercourse.,False
+141,1_3069_2,Looks like there's a lot of trouble having sex.,False
+142,1_3125_1,"But if she dumps you, she'll have a new boyfriend by tomorrow morning and you'll have a new girlfriend when you figure out how to build one.",True
+143,1_3125_2,"But if she throws you away, she'll have a new boyfriend by tomorrow morning and you'll have a new girlfriend when you figure out how to build one.",True
+144,1_3177_1,"Not a great movie, but look at that beautiful desert.",False
+145,1_3177_2,"Not a big movie, but watch this beautiful desert.",False
+146,1_3204_1,Right. That was so good! Sweety and meaty at the same time.,False
+147,1_3204_2,"It was so good, sweet and fleshy at the same time.",False
+148,1_3256_1,"I'm sorry, fiddling with yourself in the bathtub is a real class act.",True
+149,1_3256_2,"I'm sorry, playing with you in the bathtub is a real class number.",True
+150,1_3259_1,"No, I mean Princess Leia. Of course I mean Bernadette. She's a wonderful girl and she really likes you.",True
+151,1_3259_2,"No, I mean Princess Leia, of course Bernadette, she's a wonderful girl and she loves you very much.",True
+152,1_3287_1,"Oh, sure. And while we're at it, why don't we put our hands behind our backs, have an old-fashioned eating contest?",True
+153,1_3287_2,"And while we're at it, why don't you put your hands behind your back, have an old-fashioned food contest?",True
+154,1_3293_1,Leonard's work is nearly as amazing as third graders growing lima beans in wet paper towels.,True
+155,1_3293_2,Leonard's work is almost as amazing as third-year students who grow lima grains in wet paper towels.,True
+156,1_3333_1,"Okay, I got a bone to pick with you.",False
+157,1_3333_2,"Okay, I have a bone to choose with you.",False
+158,1_3348_1,"Raj, you should've seen Leonard's experiment. The interference pattern was so cool when the electron beam was on.",False
+159,1_3348_2,"Raj, you should have seen Leonard's experience.",False
+160,1_3371_1,"I was going to ask Leonard to do it, but he seemed a bit emotionally unstable and you don't want someone like that operating heavy machinery.",False
+161,1_3371_2,"I was going to ask Leonard to do it, but he seemed a little emotionally unstable and you don't want someone like him to operate heavy machines.",False
+162,1_3419_1,"Oh, we don't need to talk about that anymore. Leonard covered it pretty well in the car.",True
+163,1_3419_2,"We don't need to talk about it anymore, Leonard covered it pretty well in the car.",True
+164,1_3476_1,Don't you think looking for a new city to live in is a bit of an overreaction?,False
+165,1_3476_2,Don't you think looking for a new city where to live is a little exaggerated?,False
+166,1_3545_1,"I understand your point, but given a choice, Jews always go with Chinese food.",True
+167,1_3545_2,"I understand your point of view, but with a choice, Jews always go with Chinese food.",True
+168,1_3573_1,"Well, I always figured it was to study us, discover our weaknesses, and report back to your alien overlords.",True
+169,1_3573_2,"Well, I always thought it was to study us, discover our weaknesses, and report to your alien lords.",True
+170,1_3599_1,Why don't you keep that stuff in the bathroom?,False
+171,1_3599_2,Why don't you keep these things in the bathroom?,False
+172,1_3649_1,"Oh, no, no, I said I'm inviting you to come with me to Stan Lee's house.",False
+173,1_3649_2,"Oh, no, no, I said I'd invite you to come with me to Stan Lee's.",False
+174,1_3660_1,There a new girlfriend in there? 'Cause you might need one.,True
+175,1_3660_2,Is there a new girlfriend in there?,True
+176,1_3707_1,"Oh, I'm so glad you asked it like that. You.",True
+177,1_3707_2,I'm so glad you asked like that.,True
+178,1_3766_1,Can we please talk about something else? Maybe something vaguely related to life as we know it on this planet?,True
+179,1_3766_2,Perhaps something vaguely related to life as we know it on this planet?,True
+180,1_3837_1,"Excuse me, I'm thirsty, so I'm going to go to the refrigerator and get myself a refreshing beverage.",False
+181,1_3837_2,"Excuse me, I'm thirsty, so I'm gonna go to the refrigerator and get me a refreshing drink.",False
+182,1_3840_1,"I read a study online that walking after a meal not only aids in digestion, but increases serotonin, and you know me, if there's one thing I like more than a refreshing beverage, it's serotonin. Bye-bye.",False
+183,1_3840_2,"I've read an online study that works after a meal not only helps digestion, but increases serotonin, and you know me, if there's one thing I like more than a refreshing drink, it's serotonin.",False
+184,1_3842_1,"So what, you're just gonna walk up and down the stairs?",False
+185,1_3842_2,"So what, you're just going up and down the stairs?",False
+186,1_3911_1,"That's very thoughtful, but I think I'll finish my coffee first.",False
+187,1_3911_2,"That's very nice, but I'm gonna finish my coffee first.",False
+188,1_4031_1,"In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper <i>""Zur Quantentheorie der</i> <i>Strahlung,""</i> his fondest hope was that the resultant device be bitchin'.",True
+189,1_4031_2,"In 1917, when Albert Einstein established the theoretical foundation for laser in his paper <i>""Zur Quantentheorie der</i> <i>Strahlung,""</i> his most sincere hope was that the resulting device was bitchy.",True
+190,1_4145_1,A lot of people are working on that research. So what is all this?,True
+191,1_4145_2,"A lot of people are working on this research, so what is it?",True
+192,1_4281_1,It was the kind of thing that makes it kind of hard to face her now.,False
+193,1_4281_2,It's the kind of thing that makes it difficult to face him now.,False
+194,1_4286_1,"All right, all right. He can buy his own desk.",False
+195,1_4286_2,He can buy his own office.,False
+196,1_4290_1,I just have a question. Does Bernadette ever talk about me?,False
+197,1_4290_2,Is Bernadette talking about me?,False
+198,1_4352_1,He does it all the time. He's a cornucopia of social awkwardness.,False
+199,1_4352_2,"He does it all the time, it's a cornucopia of social malfeasance.",False
+200,1_4477_1,I just want to ask you a few questions about Howard Wolowitz.,False
+201,1_4544_1,"Yes. In fact, our menses are synchronized. Penny. Bernadette tells me you're planning a girls' night.",False
+202,1_4544_2,"Actually, our rules are synchronized, Penny, Bernadette told me you were planning a girls' party.",False
+203,1_4552_1,"...so anyway, to make a long story short, turns out I have an unusually firm cervix.",False
+204,1_4552_2,"...so anyway, to make a long story short, it turns out that I have an exceptionally firm cervix.",False
+205,1_4576_1,"Bernadette dared me to tell a dirty story. ""The Miller's Tale"" by Chaucer is the dirtiest story I know. It would have been hidden in sock drawers if people in the 14th century had worn socks.",False
+206,1_4576_2,"Bernadette dared to tell me a dirty story. Chaucer's ""The Miller's Tale"" is the filthiest story I know. It would have been hidden in sock drawers had the people of the 14th century worn socks.",False
+207,1_4603_1,Is it possible that she was going for your cheek and you moved and she accidentally got lip? That happens with me and my mom all the time.,False
+208,1_4603_2,Is it possible she's leaving for your cheek and you're moving and she accidentally had a lip?,False
+209,1_4639_1,"Well, I'm just glad you finally found yourself a keeper.",False
+210,1_4639_2,I'm glad you finally got yourself a guard.,False
+211,1_4743_1,"Oh, and the science dudes want to talk science with you. What do you want to talk about-- rocks, dinosaurs, our friend the beaver?",True
+212,1_4743_2,"Oh, and scientists want to talk about science with you.",True
+213,1_4760_1,"In the bedrooms of ten-year- old girls, where they belong.",True
+214,1_4760_2,"In the rooms of ten-year-old girls, where they belong.",True
+215,1_4789_1,"I don't know. Somebody bigger and... Yeah, sure. Why not you?",True
+216,1_4789_2,"I don't know, someone bigger and... of course, why don't you?",True
+217,1_4792_1,"Obviously, we're no longer a Justice League. We have no choice but to switch to our Muppet Baby costumes.",False
+218,1_4792_2,"Obviously, we are no longer a League of Justice. We have no choice but to move on to our Muppet baby costumes.",False
+219,1_4850_1,I understand. Your loyalty is admirable. But what if I were to up the ante?,False
+220,1_4850_2,"I understand, your loyalty is admirable, but if I were at the front?",False
+221,1_4949_1,"Certainly. I'd like to raise two points. Number one, I think they <i>are</i> talking about penises. And number two, these mimosas are kicking my little brown ass.",False
+222,1_4949_2,"Of course. I'd like to raise two points. Number one, I think they <i>are talking about penis. And number two, these mimosas are kicking my little brown ass.",False
+223,1_4967_1,We might be starting to zero in on your problem.,True
+224,1_4967_2,Maybe we're starting to zero on your problem.,True
+225,1_4995_1,"Hey, you taught me something. Who would have thought it?",True
+226,1_4995_2,You taught me something.,True
+227,1_5058_1,"An entire dinner to talk about your research? Where you going, the drive-thru at Jack in the Box?",True
+228,1_5058_2,"Where are you going, Jack's drive-thru in the box?",True
+229,1_5109_1,"Yeah, but you were just sleeping, because I forboded you to have sex.",False
+230,1_5109_2,"Yeah, but you were asleep, because I didn't allow you to sleep.",False
+231,1_5134_1,"Oh, yeah, yeah. It's real great. Today I drove to Van Nuys for an audition I thought was going to be for a cat food commercial. Turned out to be porn.",True
+232,1_5134_2,"Today, I went to Van Nuys for an audition that I thought was for a cat food ad.",True
+233,1_5156_1,"That's got to be fun for you, huh? Watching Hofstadter suck the saliva out of your sister's mouth?",True
+234,1_5156_2,Is it fun for you to watch Hofstadter suck the saliva from your sister's mouth?,True
+235,1_5166_1,"Yeah, it's a great time to be alive, isn't it?",True
+236,1_5166_2,"Yeah, it's a good time to be alive, isn't it?",True
+237,1_5169_1,I'm not saying that you're not fun. You're the most fun person I know.,False
+238,1_5169_2,"I'm not saying you're not funny, but that you're the funniest person I know.",False
+239,1_5211_1,"Saying that while holding a snowflake is a bit heavy-handed, don't you think?",True
+240,1_5211_2,"Saying that while holding a snowflake is a little heavy, don't you think?",True
+241,1_5212_1,"I'm sorry, Sheldon bought a loom and learned how to weave?",False
+242,1_5212_2,"Sorry, did Sheldon buy a job and learn how to weave?",False
+243,1_5496_1,"Okay, Amy, you're being silly. I'm not concerned about who hangs out with who. And I certainly don't have a problem with Leonard's new girlfriend who wears way too much makeup. Ooh, these are cute. Of course if I buy them, I'll have to rent my womb out to a gay couple.",True
+244,1_5496_2,And I don't have a problem with Leonard's new girlfriend who's wearing too much makeup.,True
+245,1_5571_1,"Yes, I'd like a seven-day course of penicillin, some, uh, syrup of ipecac-- to induce vomiting-- and a mint.",True
+246,1_5571_2,"Yeah, I'd like a seven-day penicillin class, an ipeca syrup... to cause vomiting... and a mint.",True
+247,1_5572_1,"He drank from Leonard's glass. ""He drank from Leonard's glass""-- the words they'll be carving into my tombstone.",True
+248,1_5572_2,"He drank from Leonard's glass. ""He drank from Leonard's glass"" - the words they're going to burn in my gravestone.",True
+249,1_5580_1,"Right, right, whereas Jewish mothers take a casual, la-di-da approach to their sons.",True
+250,1_5580_2,"Okay, okay, as Jewish mothers approach their sons in a casual way, the di-da.",True
+251,1_5581_1,I gargled with tequila and may have swallowed a teeny bit.,False
+252,1_5581_2,I scratched tequila and maybe swallowed a little.,False
+253,1_5617_1,is an event that's like a heart attack.,True
+254,1_5617_2,It's an event that looks like a heart attack.,True
+255,1_5627_1,"Your girlfriend and your ex-girlfriend are hanging out together? Oh, yeah, that can only be good for you.",True
+256,1_5627_2,Your girlfriend and your ex-girlfriend hang out?,True
+257,1_5679_1,"I'd like to respond to that sarcastically: Yes, I relish the thought of a stranger covering my body with oil and rubbing it.",True
+258,1_5679_2,"I would like to answer that sarcasticly: Yes, I am delighted with the thought of a stranger who covers my body with oil and rubs it.",True
+259,1_5699_1,"Congratulations and welcome temporarily aboard. Here's your I.D. card, your key and your lapel pin. Which Leonard was too cool to wear.",True
+260,1_5699_2,"Congratulations and welcome on board temporarily. Here's your ID card, key and pin.",True
+261,1_5751_1,Of course you do. You're a cutie pie! Any girl would be lucky to have you!,False
+262,1_5751_2,"Of course, you're a cute pie, any girl would be lucky to have you!",False
+263,1_5758_1,"Oh, I could so see you being the face of hemorrhoids.",True
+264,1_5758_2,"Oh, I could see you being the face of hemorrhoids.",True
+265,1_5786_1,"All right, so technically it's not a dinner date. I suppose you could call it a, uh, dinfast date. But if you did, you'd open yourself to peer-based mocking, such as, ""Hey, Leonard, how was your dinfast with Priya last night?""",False
+266,1_5786_2,"Technically, it's not a dinner date, but if that were the case, you'd open up to peer ridicule, like, ""Hey, Leonard, how was your dinner with Priya last night?""",False
+267,1_5880_1,"When you're done copping a feel, that goes on my wrist.",True
+268,1_5880_2,"When you're done feeling, it's on my wrist.",True
+269,1_5919_1,"Because you don't have a girlfriend? Well, good Lord, if that becomes a reason not to play Dungeons & Dragons, this game's in serious trouble.",False
+270,1_5919_2,"Because you don't have a girlfriend? Well, for God's sake, if this becomes a reason not to play Dungeons & Dragons, this game is in serious difficulty.",False
+271,1_5953_1,Here's some other fun news on the Raj/Emily front. He gave her a pair of diamond earrings and leased her a car.,False
+272,1_5953_2,Here's more fun news on the Raj/Emily front. He gave him a pair of diamond earrings and rented him a car.,False
+273,1_5964_1,Smart. Whisper so the deaf chick can't hear you.,True
+274,1_5964_2,Whisper so the deaf can't hear you.,True
+275,1_6020_1,You just got off the list. Would you like back on it? This'll just take a moment. It's on a five and a quarter inch floppy.,True
+276,1_6020_2,"You just got off the list, you want to go back, it's gonna take a while, it's on a five-inch, quarter-inch floppy disk.",True
+277,1_6032_1,"You see betrayal in others, but not yourself.",True
+278,1_6039_1,I don't know what I'm going to do. I don't want to break up over this.,False
+279,1_6039_2,"I don't know what I'm gonna do, I don't want to break up with this.",False
+280,1_6065_1,"Frankly, Mom, I'm encouraged to see how advanced your group has become-- willing to sail out into the ocean without fear of falling off the edge.",True
+281,1_6065_2,"Frankly, Mom, I'm encouraged to see how advanced your group has become, ready to sail in the ocean without fear of falling off the board.",True
+282,1_6092_1,"We don't say that, either. I'll make you a list. Oh, that would be mighty white of you.",False
+283,1_6092_2,"We don't say that either, I'll make you a list.",False
+284,1_6113_1,"So, this spring, I get to go to the International Space Station. Oh, my word, a trip to the heavens.",False
+285,1_6113_2,"So, this spring, I'm going to the International Space Station.",False
+286,1_6134_1,"No, I'm just allergic to people who get Nobel Prizes for no good reason.",True
+287,1_6134_2,"No, I'm just allergic to people getting Nobel prizes for no good reason.",True
+288,1_6165_1,"Yes, there's nothing quite like the slightly widened eyes of mildly startled.",True
+289,1_6165_2,"Yes, there is nothing quite like slightly enlarged eyes slightly surprised.",True
+290,1_6183_1,You have a thing of paper clips right there.,False
+291,1_6183_2,You got a trombone thing right here.,False
+292,1_6188_1,"Oh, my God, that's where I know you from.",True
+293,1_6188_2,"Oh, my God, that's where I know you.",True
+294,1_6211_1,"No. You mean this was all a ruse? Oh, how could I be so stu...",False
+295,1_6211_2,Was that a trick?,False
+296,1_6221_1,"Well, if you don't mind looking like an orange traffic cone, great.",True
+297,1_6221_2,"If you don't mind looking like an orange cone, great.",True
+298,1_6355_1,"said horrible things about each other in public... all in all, a pretty magical night.",True
+299,1_6355_2,"He said horrible things about each other in public... on the whole, a pretty magical night.",True
+300,1_6370_1,"Oh, of course he is. She's very interesting. Did you know, when she was 14, she severed the webbing between her own toes?",True
+301,1_6370_2,"She's very interesting, you knew, at 14, that she cut the canvas between her own toes?",True
+302,1_6426_1,"You know, the holidays are just around the corner. Maybe he wants to see if he can lodge the other testicle up there.",True
+303,1_6426_2,"You know, the holidays are just around the corner, maybe he wants to see if he can accommodate the other testicle up there.",True
+304,1_6427_1,Hmm. That's too bad. We could have spent New Year's Eve waiting for the ball to drop.,True
+305,1_6427_2,It's too bad we could have spent the night before the year waiting for the ball to fall.,True
+306,1_6428_1,Sure. You want to see what all the scientists are wearing this year.,True
+307,1_6428_2,You want to see what all scientists wear this year.,True
+308,1_6472_1,You'd think a winner could make a decent cup of cocoa.,True
+309,1_6472_2,You think a winner could make a good cup of cocoa.,True
+310,1_6504_1,"Oh, I see why you're confused. No, her news sounded important, but what you're forgetting is, it was an achievement in the field of biology. That's all about yucky, squishy things.",True
+311,1_6504_2,"No, his news seemed important, but what you're forgetting was a success in biology.",True
+312,1_6534_1,"No, but maybe she wants a man with a pocket watch.",False
+313,1_6627_1,"Well, yeah, sex with you is pretty great. Have you ever tried it?",False
+314,1_6627_2,Have you ever tried sleeping with you?,False
+315,1_6645_1,"Well, that wady took high-wes pictures of my junk wast night for Cwaigswist.",False
+316,1_6645_2,"Well, that wady took pictures of my bazaar for Cwaigswist.",False
+317,1_6648_1,You mean for a person whose neck massages feel like an eagle is trying to carry you to its nest?,True
+318,1_6648_2,You mean for a person whose neck massages feel like an eagle is trying to take you to his nest?,True
+319,1_6683_1,"Yeah, terrific. The other astronauts would love to go hurtling through space with a guy named ""Crash.""",True
+320,1_6683_2,"The other astronauts would love to go through space with a guy named ""Crash"".",True
+321,1_6766_1,Maybe that's because I'm not being challenged. It's the same reason Einstein failed math.,False
+322,1_6766_2,"Maybe it's because I'm not being challenged, that's the same reason Einstein failed.",False
+323,1_6769_1,"Hope your hands are steady. It's the width of a single hair. But this is just biology, so I'm sure it's no problem for a genius like you.",True
+324,1_6769_2,"I hope your hands are stable, it's the width of a single hair, but it's just biology, so I'm sure it's not a problem for a genius like you.",True
+325,1_6835_1,"Oh, screw her. She's just lucky we let her hang out with us.",False
+326,1_6835_2,She's lucky we let her hang out with us.,False
+327,1_6860_1,"I'm sorry, it's the bad boy attitude that comes with this hair.",False
+328,1_6860_2,"I'm sorry, it's the bad boy's attitude that comes with that hair.",False
+329,1_7047_1,"Also instead of just living in your mother's house, you could actually live inside her body.",True
+330,1_7047_2,"And instead of living in your mother's house, you could live inside her body.",True
+331,1_7082_1,"...to all the good times we had, like, uh, when we went camping and spent that night telling each other all our secrets. I told him I'm addicted to pedicures and he told me he lost his virginity to his cousin.",False
+332,1_7082_2,I told him I'm addicted to pedicures and he told me he lost his virginity to his cousin.,False
+333,1_7089_1,"How about you? Did you have a fun night? Yeah, we, uh, made gift bags, had wine, and then went online and saw this.",True
+334,1_7089_2,"We made gift bags, we drank wine, and then we went to see it online.",True
+335,1_7186_1,"Not exactly. Listen, if you don't mind, I'm not really up for chatting. I'm just going to sit here quietly and let my life flash before my eyes.",False
+336,1_7186_2,"Look, if you don't mind, I'm not really ready to chat, I'm just gonna sit here quietly and let my life flash in front of my eyes.",False
+337,1_7281_1,"Darn. If you weren't busy, I'd ask you to join us.",True
+338,1_7281_2,"If you weren't busy, I'd ask you to join us.",True
+339,1_7341_1,I am talking to a man in space. If you don't have the (walkie-talkie static) then he might as well be at the Coffee Bean over on Lake Street.,False
+340,1_7341_2,I'm talking to a man in space. If you don't have the (static walkie-talkie) then he might as well be at Coffee Bean on Lake Street.,False
+341,1_7357_1,I'm starting to get a sense of it.,True
+342,1_7357_2,I'm starting to get an idea.,True
+343,1_7395_1,"Well, if that's all it takes, it's a good thing you don't have a dog.",True
+344,1_7395_2,"If that's all you need, it's a good thing you don't have a dog.",True
+345,1_7400_1,"Of course, it is... it's been in the news. And it's a very famous boson.",False
+346,1_7400_2,"Of course, it's... it's on the news and it's a very famous boson.",False
+347,1_7402_1,I didn't know they gave Nobel prizes for making boom-boom in the potty.,True
+348,1_7402_2,I didn't know they gave Nobel prizes for booming in the pot.,True
+349,1_7442_1,"The original title was ""A Rederivation of Maxwell's Equations Regarding Electromagnetism"""" I dumbed it down because some of the more religious people in town were starting to say I was a witch.",False
+350,1_7442_2,"The original title was ""A Rederivation of Maxwell's Equations About Electromagnetism"""" I stunned him because some of the most religious in the city were beginning to say that I was a witch.",False
+351,1_7443_1,We've kind of been involved in a five-year experiment.,False
+352,1_7443_2,We were involved in a five-year experience.,False
+353,1_7445_1,My limbic system wants to take your pants off.,False
+354,1_7445_2,My limbic system wants to take off your pants.,False
+355,1_7449_1,"Okay, the NASA Web site says Howard's final descent has begun.",False
+356,1_7449_2,"Okay, NASA's website says Howard's final downhill has begun.",False
+357,1_7487_1,"Yeah, well, Bernadette's a little under the weather and my mom's kind of under my dentist.",False
+358,1_7487_2,"Yeah, well, Bernadette's a little under time and my mom's a little under my dentist.",False
+359,1_7490_1,"It's okay, you know, we space cowboys don't do what we do for glory and fame. We leave that to your rock stars and your athletes and your Howie Mandels.",False
+360,1_7490_2,"Cowboys don't do what we do for glory and glory, we leave it to your rock stars, your athletes and your Howie Mandels.",False
+361,1_7494_1,that sounds a little funny to an American ear.,False
+362,1_7494_2,Sounds a little funny for an American ear.,False
+363,1_7504_1,"""To Stuart, your comic book store is out of this world. Just like the guy in this picture was.""",False
+364,1_7504_2,"""For Stuart, your comic book shop is out of this world, just like the guy in this picture was.""",False
+365,1_7575_1,"You're right, the party's fantastic. Please, tell me more. I haven't heard enough about it all week because hearing about that never gets old!",True
+366,1_7575_2,"You're right, the party is fantastic, please, say more, I haven't heard enough about it all week because hearing about it never gets older!",True
+367,1_7593_1,"Amy, I can't just ask Wil Wheaton to leave. He's a minor celebrity. Once you explain who he is, many people recognize him.",False
+368,1_7593_2,"Amy, I can't ask Wil Wheaton to leave.",False
+369,1_7641_1,"She was just so sad all the time. Yeah, I was the only person who could cheer her up. Well, me and Ben and Jerry.",False
+370,1_7641_2,"Yes, I was the only person who could cheer him up.",False
+371,1_7661_1,"Yeah, that was five weeks ago. How much longer is he gonna milk that cow?",False
+372,1_7661_2,That was five weeks ago.,False
+373,1_7675_1,"Anyway, to this day, I still can't see a box of crayons without crossing my legs.",False
+374,1_7675_2,"Anyway, until now, I still don't see a box of pencils without crossing my legs.",False
+375,1_7722_1,Exactly what it was half an hour ago. It's like you're not even trying to get better.,True
+376,1_7722_2,"Exactly what half an hour ago, it's like you're not even trying to get better.",True
+377,1_7894_1,I did. The guy at the liquor store said this stuff tastes great in coffee.,False
+378,1_7894_2,The guy from the liquor store said it tastes good in the coffee.,False
+379,1_7938_1,"Come on, let's just start walking. There's got to be a gas station or something nearby.",False
+380,1_7938_2,"Come on, let's start walking, there must be a gas station or something nearby.",False
+381,1_7953_1,Why don't you ask Scotty to beam you up?,True
+382,1_7953_2,Why don't you ask Scotty to teleport?,True
+383,1_8042_1,"No, just me, her and a couple of the big wigs. It's part of a bonus she got.",False
+384,1_8042_2,"No, just me, her and some big wigs, that's part of a bonus she got.",False
+385,1_8045_1,"Dumped her? What, did he use a forklift?",True
+386,1_8045_2,"What, did he use a forklift?",True
+387,1_8052_1,Like Burt and Ernie. You guys even teach me stuff about words and numbers.,True
+388,1_8052_2,"Like Burt and Ernie, you teach me things about words and numbers.",True
+389,1_8078_1,"Trust me, you're not Jewish. That's how they get you.",False
+390,1_8078_2,"Trust me, you're not Jewish.",False
+391,1_8136_1,"Yeah, I'm really looking forward to it. In fact, there's no place I would rather be than here.",True
+392,1_8136_2,"Actually, there's no place I'd rather be than here.",True
+393,1_8159_1,And I'm cool with surprises. But nothing on a Jumbotron. I don't want to cry on a big screen like that.,False
+394,1_8159_2,"And I'm cool with surprises, but nothing on a Jumbotron, I don't want to cry on a big screen like that.",False
+395,1_8185_1,We could go to Red Lobster and talk about it. We're all thinking it. I just had the decency to wait for him to leave.,False
+396,1_8185_2,We could go to Red Lobster and talk about it.,False
+397,1_8217_1,"Go out with me on one date, and I promise you, you'll see.",False
+398,1_8217_2,"Go out with me on a date, and I promise you'll see.",False
+399,1_8407_1,"Oh, sure, what a wonderful idea. And after that, I'll make up my own rules of oral hygiene. You know, instead of flossing, I'll rub pudding on my gums. I'm going to get the number of the SyFy Channel and give them what for.",True
+400,1_8407_2,"And then I'm going to invent my own oral hygiene rules, instead of running, I'm going to rub pudding on my gums, I'm going to take the SyFy chain number and give them what to do.",True
+401,1_8417_1,"Oh, I think we were looking at creepy in the rearview mirror when I put up that camera.",False
+402,1_8417_2,"Oh, I think we were looking freaky in the mirror when I put that camera on.",False
+403,1_8452_1,I think I'm gonna go. Thank you for the burrito and the pork rinds and the 20-minute lecture on why monster trucks are better than regular trucks.,True
+404,1_8452_2,Thanks for the burrito and pork crusts and the 20-minute conference on why monster trucks are better than ordinary trucks.,True
+405,1_8505_1,"A lane frequented by liars. Like you, you big liar!",False
+406,1_8505_2,A way used by liars.,False
+407,1_8717_1,Because you're in the right lane behind a bus and you won't go around it? I'm sure she finds it charming.,True
+408,1_8717_2,Because you're on the right track behind a bus and you don't want to go around?,True
+409,1_8746_1,"I enjoyed it. When you told me I was going to be ""losing my virginity,"" I didn't think you meant showing me <i>Raiders of the Lost Ark</i> for the first time.",True
+410,1_8746_2,"When you told me I'd lose my virginity, I didn't think you wanted to show me <i>Riders from the Lost Ark</i> for the first time.",True
+411,1_8749_1,It was very entertaining... despite the glaring story problem.,True
+412,1_8749_2,It was very entertaining... despite the problem of brilliant history.,True
+413,1_8827_1,How do you not tear off his clothes and take him right here on this table?,True
+414,1_8827_2,How can we not rip off his clothes and take him here on this table?,True
+415,1_8837_1,"Not as relieved as I'm about to be. It's a brave new world, little lady.",False
+416,1_8837_2,It's not as relieved as I'm about to be.,False
+417,1_9003_1,"I'm not going to bother him, I'm going to talk to him.",False
+418,1_9003_2,"I'm not gonna bother him, I'm gonna talk to him.",False
+419,1_9009_1,"- No, no, no. I'm really good at this. All right, give me a hint. Does it involve difficulty initiating a stream of anything?",False
+420,1_9009_2,"- No, no, no, I'm really good at it.",False
+421,1_9087_1,"Why? Because I got an ugly, itchy sweater, and my brother got a car? No, I was her favorite.",True
+422,1_9087_2,"Because I got a ugly, boring sweater, and my brother got a car?",True
+423,1_9245_1,Can we talk about something else? Do you know that I yodel?,False
+424,1_9245_2,Can we talk about something else?,False
+425,1_9594_1,I can't believe we wasted all that time on our Hulk costumes.,False
+426,1_9594_2,I can't believe we wasted everything on our Hulk costumes.,False
+427,1_9668_1,"People usually start a meeting with a joke, but you go ahead-- end with one.",False
+428,1_9668_2,"People usually start a meeting with a joke, but you're going to before-- end up with one.",False
+429,1_9963_1,What do you think I was gonna do at home?,False
+430,1_9971_1,I was gonna say we pick up a cake or a pie. But an insult to her faith is always thoughtful.,True
+431,1_9971_2,"I was going to say we're taking a cake or a pie, but an insult to his faith is always thoughtful.",True
+432,1_9972_1,"Ooh, I'm gonna check the fridge, and see if there are any clues inside a beer.",True
+433,1_9972_2,"I'll check the fridge, see if there's any clues inside a beer.",True
+434,1_9993_1,"Well, my beer isn't flat and my rack's not saggy. So far, the future's great.",True
+435,1_9993_2,My beer isn't flat and my rack isn't saggy.,True
+436,1_10004_1,"And of those few months, how long have you been a demented sex pervert?",False
+437,1_10004_2,"And from these few months, how long have you been a demented sexual pervert?",False
+438,1_10009_1,"Let the dead man talk. So, why do you think that?",False
+439,1_10009_2,"So, why do you think that's it?",False
+440,1_10190_1,"Well, now that I've given up string theory, I'm struggling to find my next area of focus. So, in your professional opinion, which of these areas do you think is the most promising?",False
+441,1_10190_2,"Now that I've abandoned string theory, I'm having trouble finding my next area of interest.",False
+442,1_10462_1,"You know, if you're really serious about that, I hear there are some exciting opportunities in home care for the old and fat.",True
+443,1_10462_2,"You know, if you're really serious about this, I've heard there are exciting opportunities in home care for old and fat people.",True
+444,1_10495_1,"And if it turns out you don't... - you and I could live together. - You and... Oh, sure.",True
+445,1_10495_2,And if it turns out you and I wouldn't... you and I could live together.,True
+446,1_10496_1,"- You and... Oh, sure. And while we're at it, why don't we get engaged, too? Why don't we get a little house, start a family? Enjoy our sunset years together? Do you hear yourself, woman?!",True
+447,1_10496_2,"And while we're there, why not get engaged too? Why not have a small house, start a family? Enjoy our years of sunset together? Do you get along, woman?!",True
+448,1_10748_1,"There they go, fighting again. You'd never hear her talk that way to Sauvignon Blanc.",True
+449,1_10748_2,You'd never hear him talk like that to Sauvignon Blanc.,True
+450,1_10797_1,"I'm with him three years, nothing. She's with two minutes, and he's taking his pants off.",False
+451,1_10797_2,"I'm with him three years, nothing, she's with two minutes, and he takes off his pants.",False
+452,1_10810_1,I'll give you a plan right now. Step one: open comic book store. Step two: start rumor this comic book store gives you genital warts.,False
+453,1_10810_2,I'll give you a plan right away. Step one: open comic book store. Step two: start saying that this comic book shop gives you genital warts.,False
+454,1_10829_1,"On the bright side, that Oxford study was right. One friend down. I wonder who you're going to lose next.",True
+455,1_10829_2,"On the bright side, this Oxford study was right, a friend down, I wonder who you're gonna lose next.",True
+456,1_10849_1,That's how much buying a comic book store means to me.,False
+457,1_10849_2,That's how I care about buying a comic book shop.,False
+458,1_10853_1,"Okay, sit down. Listen, Emily, what happened between me and Raj was a long time ago. It was,",False
+459,1_10853_2,"Look, Emily, what happened between me and Raj was a long time ago.",False
+460,1_10857_1,It's true-- you're both gorgeous. Kind of says something about the man who could bed you both.,False
+461,1_10857_2,"It's true, you're both beautiful, you're saying something about the man who could sleep you both.",False
+462,1_10859_1,I don't need a reason-- it's my house.,False
+463,1_10859_2,I don't need a reason... this is my house.,False
+464,1_10890_1,"Boy, when you met Bernadette, the field of robotics really took a hit.",True
+465,1_10890_2,"When you met Bernadette, the field of robotics really took a hit.",True
+466,1_10977_1,Let's not talk about this in front of our friends.,False
+467,1_11006_1,Maybe it's a good thing we came here. It's like a lesson in what not to do.,True
+468,1_11006_2,Maybe it's a good thing we came here.,True
+469,1_11021_1,"Same as all of us, getting out of a car without underwear.",True
+470,1_11021_2,"Like all of us, get out of a car without underwear.",True
+471,1_11042_1,"Because no one wants to see Neil deGrasse Tyson in a wet T-shirt, bent over the hood of a Porsche.",False
+472,1_11042_2,"Because no one wants to see Neil deGrasse Tyson in a wet T-shirt, folded on the hood of a Porsche.",False
+473,1_11046_1,"Wow, he really went where no man has gone before.",False
+474,1_11046_2,"Wow, he really went where no man's been before.",False
+475,1_11051_1,"Well, he said it was a tribble. It could be a toupee, but either way, it's pretty cool.",False
+476,1_11051_2,"Maybe he's a mole, but in any case, it's pretty cool.",False
+477,1_11055_1,"Ah, that's a good question. Apparently someone was being awfully flirty while not wearing their engagement ring, causing another someone to show up here thinking the first someone might be available.",True
+478,1_11055_2,"Apparently, someone was very flirting by not wearing his engagement ring, which led someone to come here thinking that the first someone might be available.",True
+479,1_11098_1,"Wow, you still have it? I just assumed it was balled up in the corner of a barn somewhere.",True
+480,1_11098_2,I assumed he was in the corner of a barn somewhere.,True
+481,1_11120_1,"Next time I might be in a rush, it's good to have a few in the bank.",False
+482,1_11120_2,"Next time I'm in a hurry, it's good to have some at the bank.",False
+483,1_11177_1,I'm listening to you snore. I'm wondering how I'll ever sleep without it.,True
+484,1_11177_2,"I'm listening to you snoring, I wonder how I'll sleep without it.",True
+485,1_11201_1,"He probably got a new one. Finish your breakfast. Look, there's an entire section of my dashboard that doesn't have any syrup on it.",False
+486,1_11201_2,"There's probably a new one, finish your breakfast, there's a whole section of my dashboard that doesn't have syrup on it.",False
+487,1_11224_1,And here I am in the trap. You just keep talking. I'm gonna chew my leg off.,True
+488,1_11224_2,"And here I am in the trap, you keep talking, I'm gonna rip my leg out.",True
+489,1_11232_1,"And I love that I work and do all the cleaning, and you're okay with that.",True
+490,1_11232_2,"And I love that I work and clean up, and you're okay with that.",True
+491,1_11236_1,"Oh, you're hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose.",False
+492,1_11236_2,"You always risk getting infected, a blood clot, the possibility that an incompetent surgeon will let a spider lay eggs in your nose.",False
+493,1_11242_1,"I love that you take pride in your looks, even when I have to pee in the morning, and you're in there spending an hour on your hair.",True
+494,1_11242_2,"I love that you're proud of your look, even when I have to pee in the morning, and you spend an hour on your hair.",True
+495,1_11243_1,I love that you're too good to pee in the kitchen sink.,True
+496,1_11253_1,"So as they say, all good things must come to an end.",False
+497,1_11253_2,"So, as they say, all good things must end.",False
+498,1_11257_1,Doesn't Professor Abbott's family want any of this stuff?,False
+499,1_11257_2,Professor Abbott's family don't want it?,False
+500,1_11306_1,"I guess the sad truth is, not everyone will accomplish something great. Some of us may just have to find meaning in the little moments that make up life.",False
+501,1_11306_2,I suppose the sad truth is that not everyone will accomplish something great. Some of us may just have to find meaning in the small moments that make up life.,False
+502,1_11322_1,"You know what? That was almost on topic. I'm gonna say, ""Good job, Sheldon.""",True
+503,1_11322_2,"It was almost on the subject, I'll say, ""Good work, Sheldon.""",True
+504,1_11378_1,Are you sure a dummy like me can handle something as complicated as a blanket?,True
+505,1_11378_2,Are you sure an idiot like me can handle something as complicated as a blanket?,True
+506,1_11439_1,"No, you're right, we should do what you do. Have our mom send us pants from the Walmart in Houston.",True
+507,1_11439_2,"No, you're right, we should do what you're doing, that our mother sends us Walmart pants to Houston.",True
+508,1_11485_1,Is that why you had to take him to Office Depot last night?,False
+509,1_11485_2,Is that why you had to take her to Office Depot last night?,False
+510,1_11526_1,"As you may know, I've been experimenting with elevated anxiety levels, and I thought, what better way to increase my discomfort than to subject myself to an evening of tasteless uncensored crotch talk?",False
+511,1_11526_2,"As you may know, I experienced high levels of anxiety, and I thought, what better way to increase my discomfort than to submit to a tasteless crotch conversation evening?",False
+512,1_11529_1,"And how difficult it is to do when she's bloated, cranky and crampy?",False
+513,1_11529_2,"And how hard is it to do when she's swollen, squeaky and cramped?",False
+514,1_11609_1,"I've, uh, created some other user accounts so I can post positive comments about their paper.",False
+515,1_11609_2,"I, uh, created other user accounts to be able to post positive comments on their paper.",False
+516,1_11697_1,The answer's in this puzzle box. Let's see if you can open it.,True
+517,1_11697_2,The answer is in this puzzle box. Let's see if you can open it.,True
+518,1_11699_1,"No, Stuart picked out those throw pillows all on his own.",True
+519,1_11699_2,"No, Stuart chose these pillows to throw on his own.",True
+520,1_11723_1,"Not much, but he seemed to be in a pretty good place.",False
+521,1_11723_2,"Not much, but he seemed to be in a good place.",False
+522,1_11736_1,"I don't know, perhaps somebody took it off the carousel by mistake?",False
+523,1_11736_2,"I don't know, maybe someone took him out of the carousel by mistake?",False
+524,1_11773_1,This is why I've been saying we should keep champagne on ice.,True
+525,1_11773_2,That's why I'm saying we should keep the champagne on ice.,True
+526,1_11885_1,"Yeah, turns out half a dozen menorahs really sets a mood.",True
+527,1_11885_2,"Yeah, it turns out that half a dozen menorahs really give a good mood.",True
+528,1_11889_1,"Yeah, we just want to have the kind of dinner that we've all had here so many times before.",False
+529,1_11889_2,"Yeah, we just want to have the kind of dinner we've all had here so many times before.",False
+530,1_11901_1,"Yeah, good for you, Leonard. That's a lovely little notion. Kind of like, I wish I could talk to my uncle in Chicago. Yeah, now stand back while I invent the telephone. Hello? Oh, hold on. Leonard, it's your uncle. He says you just got burned.",True
+531,1_11901_2,"Yeah, that's a nice little idea. I'd like to talk to my uncle in Chicago.",True
+532,1_11913_1,It's why my people wandered the desert for 40 years. Took that long to walk it off.,True
+533,1_11913_2,That's why my people wandered through the desert for 40 years.,True
+534,1_11924_1,"All right, Amy's in charge of pricing and being 75.",True
+535,1_11928_1,"And if I had a friend, they might have told me that.",False
+536,1_11928_2,"And if I had a friend, they could have told me.",False
+537,1_12002_1,Then buckle up; you're in for a cranky night.,False
+538,1_12002_2,"So shut up, you're here for a grumpy night.",False
+539,1_12083_1,"Oh, just put it in your mouth and pop it like a zit.",False
+540,1_12083_2,Put it in your mouth and put it like a zit.,False
+541,1_12202_1,"No need to. As soon as she flies into California airspace, I'll feel a disturbance in the Force.",True
+542,1_12202_2,"As soon as she enters California's airspace, I will feel a disturbance in the Force.",True
+543,1_12275_1,"Uh, no. I overheard Bernadette tell Howard she was making him a meat loaf, and you don't have to not ask me twice.",False
+544,1_12275_2,"I heard Bernadette tell Howard she's making him a meat loaf, and you don't have to ask me twice.",False
+545,1_12320_1,"Oh, yes, we've got the moon and the trees and... Elizabeth McNulty, who apparently died when she was the same age I am.",False
+546,1_12320_2,"Oh, yes, we have the moon and trees and... Elizabeth McNulty, who apparently died when she was the same age as me.",False
+547,1_12331_1,"Wow, there's a Denny's in Vegas you can actually get married in.",False
+548,1_12331_2,"Wow, there's a Denny in Vegas where you can get married.",False
+549,2_223_1,"I guess he wants to do a little dance, you know, make a little love. Well pretty much get down to that.",True
+550,2_223_2,"I guess he wants to do a little dance, make some love.",True
+551,2_370_1,You have to stop the Q-Tip when there is resistance,True
+552,2_370_2,You must stop Q-Tip when there is resistance,True
+553,2_556_1,"Joey if I go first, I want to be looking for my keys",True
+554,2_556_2,"Joey, if I go first, I want to get my keys.",True
+555,2_484_1,Yes yes it is! In Prison!!,True
+556,2_484_2,"Yes, yes, in prison!",True
+557,2_498_1,"Uh, so how many cameras are actually on you.",True
+558,2_494_1,But younger than some buildings!,True
+559,2_477_1,"And then and then you clicked it again, she's dressed. She is a business woman, she is walking down the street and oh oh oh she's naked.",False
+560,2_477_2,"And then you clicked her again, she's dressed, she's a businesswoman, she walks on the street and oh oh oh she's naked.",False
+561,2_35_1,Oh no donÕt go. I have scared you. I have said too much. I am hopeless and awkward and desperate for love.,False
+562,2_35_2,"I scared you, I said too much, I'm desperate, clumsy and desperate for love.",False
+563,2_279_1,Sounds like she has got the whole package!,True
+564,2_279_2,Looks like she's got the whole package!,True
+565,2_377_1,Yeah either that or gloria estefan was right eventually the rhythm is going to get you,True
+566,2_377_2,Or that or Gloria estefan was finally right the rhythm will get you,True
+567,2_595_1,I'd miss you if I broke up with you. Just trying to be supportive.,False
+568,2_595_2,I'd miss you if I broke up with you.,False
+569,2_464_1,"Oh, uh, no thanks. I just had an M&M.",True
+570,2_464_2,"No, I just had a M&M.",True
+571,2_408_1,"Okay, but if you are not coming back soon, there is pretty much nothing I can do about it",True
+572,2_408_2,"Okay, but if you don't come back soon, there's practically nothing I can do about it.",True
+573,2_574_1,You can't do anything.,False
+574,2_574_2,There's nothing you can do.,False
+575,2_409_1,I'll catch you guys later.,False
+576,2_409_2,I'll meet you later.,False
+577,2_549_1,Really?,False
+578,2_598_1,"Our balcony? Seriously? That's so funny because I told Monica we should put lights on our balcony. - And she said - ""No no, its too cold, nobody will go out there.""  - I said ""Maybe if we put some lights out there they will"".",True
+579,2_598_2,"It's funny because I told Monica we should put lights on our balcony and she said, ""No, it's too cold, no one's going there."" I said, ""Maybe if we put lights there, they're going.""",True
+580,2_73_1,"Oh my god, you almost gave me a heart attack!",True
+581,2_73_2,"Oh, my God, you almost had a heart attack!",True
+582,2_374_1,Janice? Janice?,True
+583,2_374_2,Janice?,True
+584,2_297_1,"I am sorry, it was a one time thing. I was very drunk and it was someone else's subconscious",True
+585,2_297_2,"I'm sorry, it was only once. I was very drunk and it was someone else's subconscious.",True
+586,2_286_1,"And sometimes I would want you to steal third, and I'll go like this.",True
+587,2_286_2,"And sometimes I want you to steal the third one, and I'm gonna go like that.",True
+588,2_509_1,Crazy bitch!,True
+589,2_508_1,"Yes, the doctor's say if they remove it, he will die!",True
+590,2_508_2,"Yes, the doctor says if they take him off, he'll die!",True
+591,2_472_1,And I just won a million dollars!,False
+592,2_472_2,And I just made a million dollars!,False
+593,2_227_1,You sure he is going to be able to crack that code?,True
+594,2_227_2,Are you sure he'll be able to break that code?,True
+595,2_226_1,"These people find out that a spelling game is going over there, there will be nobody left at our party.",True
+596,2_226_2,"These people find out that a spelling game goes there, there's no one at our party anymore.",True
+597,2_478_1,"Oh, wait a minute, I have no one.",True
+598,2_478_2,"Oh, wait a minute, I don't have anyone.",True
+599,2_372_1,Actually I yesterday I was smoking again. Today I am smoking still.,True
+600,2_372_2,"In fact, yesterday I was still smoking, and today I still smoke.",True
+601,2_241_1,"Oh I do. Oh no, wait a minute, I took it out of my shirt when I put it on this morning.",True
+602,2_241_2,"Oh, no, wait a minute, I pulled it out of my shirt when I put it on this morning.",True
+603,2_109_1,"I thought if I littered, that crying Indian might come by and save us.",True
+604,2_109_2,"I thought if I was tossed, that crying Indian could come and save us.",True
+605,2_389_1,Huh! Whats dufus speled backwards?,True
+606,2_389_2,What did the dufus say upside down?,True
+607,2_449_1,"Oh no, now its not gonna make any sense",True
+608,2_449_2,"Oh, no, now it won't make any sense.",True
+609,2_50_1,"Nope, that patch is no good.",True
+610,2_50_2,"No, this patch isn't good.",True
+611,2_84_1,"If that doesn't keep kids in school, what will?",True
+612,2_84_2,"If it doesn't keep the kids in school, what will it do?",True
+613,2_322_1,"Hey, my father's house does that.",False
+614,2_322_2,My dad's house does that.,False
+615,2_416_1,Were you so late because you were burying this woman?,True
+616,2_416_2,You were so late because you were burying that woman?,True
+617,2_124_1,I am so confused as to what we have been doing so far.,True
+618,2_124_2,I'm so confused about what we've done so far.,True
+619,2_206_1,A tshirt that says - I don't belong here.,True
+620,2_206_2,A t-shirt that says I don't belong here.,True
+621,2_204_1,"Oh Oh, I am convinced!",True
+622,2_204_2,"Oh, I'm convinced!",True
+623,2_380_1,Oh just like give a minute to wake up for this  ...  Ha ha! You lost the ring. You the worst best man ever!,False
+624,2_380_2,Oh just like giving a minute to wake up for this... ha ha! You've lost the ring. You're the worst man of all time!,False
+625,2_622_1,"Pheebs, you may know this, you know strange things. What is the boiling point of brain?",True
+626,2_622_2,"Pheebs, you may know, you know strange things.",True
+627,2_583_1,And the bunny got away!,True
+628,2_583_2,And the rabbit escaped!,True
+629,2_456_1,And you are gonna make them all disappear.,True
+630,2_456_2,And you're gonna make them all disappear.,True
+631,2_461_1,"Wow you look just like your son, Mrs. Tribbiani",True
+632,2_461_2,"You look like your son, Mrs. Tribbiani.",True
+633,2_152_1,Your makeup?,True
+634,2_15_1,I'm sorry man there is never a good time to have to .. Stop catching on fire.,True
+635,2_15_2,I'm sorry man there's never a good time to have to... stop catching the fire.,True
+636,2_421_1,Joey's got a really bad hernia but its nothing that a laser eye surgery wont fix,True
+637,2_421_2,"Joey has a very bad hernia, but it's nothing that laser eye surgery can't fix.",True
+638,2_586_1,"See now that I see crying over, but Bambi, is a cartoon.",True
+639,2_586_2,"See now that I see crying, but Bambi, it's a cartoon.",True
+640,2_160_1,"Because his penis was too big. I am sorry, thatÕs the kind of thing I do.",False
+641,2_160_2,"Because her penis was too big. I'm sorry, that's the kind of thing I do.",False
+642,2_39_1,"Oh hurry up, I want to sign that.",True
+643,2_39_2,"Hurry up, I want to sign this.",True
+644,2_66_1,"Nice jon Joe, you are quite the craftsman!",True
+645,2_66_2,"Jolly Jon Joe, you're the craftsman!",True
+646,2_310_1,Well thank God your livelihood doesn't depend on it.,True
+647,2_310_2,Thank God your livelihood doesn't depend on it.,True
+648,2_345_1,Oh I left them in my bulldozer .. I don't have tools!,True
+649,2_345_2,I left them in my bulldozer. I don't have any tools!,True
+650,2_581_1,"We were wondering what was taking so long with the gift, but now we understand you were doing this.",True
+651,2_581_2,"We were wondering what was taking so long with the gift, but now we understand you're doing this.",True
+652,2_518_1,Oh tons. I am quite the woodsman.,True
+653,2_518_2,"Oh tons, I'm the man of the woods.",True
+654,2_450_1,If only there was something in your head to control the things you say.,True
+655,2_450_2,If only there was something in your head to control the things you're saying.,True
+656,2_567_1,"Well yes Ross, pressing my third nipple opens the delivery entrance to the magical land of Narnia.",True
+657,2_567_2,"Well, yes, Ross, by pressing my third nipple opens the delivery entrance to Narnia's magical land.",True
+658,2_115_1,"I am sorry, we donÕt have your sheep.",True
+659,2_115_2,"I'm sorry, we don't have your sheep.",True
+660,2_183_1,"No, rabies.",True
+661,2_104_1,Was that place the sun?,True
+662,2_104_2,Was that the place of the sun?,True
+663,2_288_1,Maybe he was nervous.,True
+664,2_420_1,"No you are not Chandler, we still love you Chandler",True
+665,2_420_2,"No, you're not Chandler, we still love Chandler.",True
+666,2_49_1,We got a box.,False
+667,2_49_2,We have a box.,False
+668,2_433_1,I was saying the actual words,True
+669,2_433_2,I said the real words.,True
+670,2_428_1,His legs flail about as if independent from his body,False
+671,2_428_2,His legs weaken as if they were independent of his body.,False
+672,2_1_1,"Yes you can. You're thinking about time, you can't go back in time.",False
+673,2_1_2,"You think about time, you can't come back in time.",False
+674,2_168_1,Did I wake you?,True
+675,2_155_1,Great! Now we can do laundry all night. All night laundry!,True
+676,2_155_2,We can do laundry all night.,True
+677,2_2_1,"ThatÕs a good one too Pheebs, now all that I have to do is find a plane load of people whose resolution is to plummet to their deaths",True
+678,2_2_2,"It's a good Pheebs too, now all I have to do is find an airplane load of people whose resolution is to sink into their death.",True
+679,2_120_1,"You know some might find it amusing, I myself find it regular.",True
+680,2_120_2,"You know that some people find it fun, I find it regular myself.",True
+681,2_487_1,"And Hornswoggle? What? Are you dating a character from ""Fraggle Rock""? Ahh.",True
+682,2_487_2,What about Hornswoggle?,True
+683,2_280_1,"Joey ate my last stick of gum, so I killed him. Do you think that was wrong?",True
+684,2_280_2,"Joey ate my last gum, so I killed him.",True
+685,2_447_1,It was an accident. Not like I was across the street with a telescope and a box of donuts.,True
+686,2_447_2,"It was an accident, not like I was on the other side of the street with a telescope and a box of donuts.",True
+687,2_148_1,"Hey, that's Joincidence with a C",True
+688,2_148_2,"Hey, it's C-joining.",True
+689,2_532_1,"The Jamestown colony of Virginia. You see King George is giving us the land, so.",True
+690,2_532_2,"The colony of Jamestown, Virginia, you see King George gives us the land.",True
+691,2_443_1,"Dear god, this parachute is a knapsack",True
+692,2_443_2,"Oh, my God, this parachute is a knapsack.",True
+693,2_475_1,"Oh yeah ok, including the waffles last week, you now owe me, seventeen zillion dollars.",True
+694,2_475_2,"Oh yeah, okay, including waffles last week, you now owe me $17 million.",True
+695,2_92_1,"No, no, I am just looking for a man to draw on me with chalk.",True
+696,2_92_2,"No, no, I'm just looking for a man to draw on me with chalk.",True
+697,2_258_1,"I am telling you, when she leaned back, I could see her brain",True
+698,2_258_2,"I'm telling you, when she leaned, I could see her brain.",True
+699,2_376_1,Me? I am gonna die alone!,True
+700,2_376_2,I'm going to die alone!,True
+701,2_114_1,Spanish midgets wrestling Julie! Okay yes I see how they got there.,True
+702,2_114_2,The Spanish dwarfs are fighting Julie!,True
+703,2_246_1,"Well, it will probably slow me down at first. But once I am used to the extra weight, I ll get back on track.",True
+704,2_246_2,"Well, it's probably gonna slow me down at first, but once I get used to the extra weight, I'm gonna go back on track.",True
+705,2_268_1,"A lonely grey couch. "" O look "" cried Ned. And then the kingdom was his. The End.",False
+706,2_268_2,"A solitaire grey couch. ""O look"" exclaimed Ned. And then the kingdom was his. The end.",False
+707,2_221_1,See Joe that's why your parents told you not to jump on your bed!,False
+708,2_221_2,"You see Joe, that's why your parents told you not to jump on your bed!",False
+709,2_369_1,"I just have to do one thing, really quickly, its not a big thing  ...  GET UP||",True
+710,2_369_2,"I just have to do one thing, really fast, it's not a big thing...",True
+711,2_103_1,"No, this is just part of a daredevil game that I play called wait until last moment before I burst and die",True
+712,2_103_2,"No, it's just a part of a delirium game that I play called waiting until the last moment before I burst and die",True
+713,2_457_1,"Yes, we all know how cruel a parent can be, about the flatness of a child's pillow.",True
+714,2_457_2,"Yes, we all know how cruel a parent can be about the flatness of a child's pillow.",True
+715,2_112_1,I think this is probably why Damone smokes in his cell alone.,True
+716,2_112_2,I think that's probably why Damone smokes in her cell alone.,True
+717,2_174_1,Oh! Satan's minions at work again?,True
+718,2_174_2,Satan's minions at work again?,True
+719,2_490_1,"Maybe it's a contest, you know? Like ""Collect all five"".",True
+720,2_490_2,"Maybe it's a contest, like ""Collecting the Five.""",True
+721,2_430_1,I guess you would know that or else we would be in a predicament room,True
+722,2_430_2,"I guess you'd know, otherwise we'd be in a tough room.",True
+723,2_434_1,We can? Ok I am trying that.,True
+724,2_434_2,That's what I'm trying to do.,True
+725,2_541_1,Oh yeah right. And what would my opening line be? Excuse me,True
+726,2_541_2,And what would be my opening line?,True
+727,2_392_1,Ah you see perfect might be a problem. Had you said co-dependent or self-destructive.,True
+728,2_392_2,If you had said co-dependent or self-destructive.,True
+729,2_187_1,That's so funny because you look more like Joey Tribbiani man slash woman.,True
+730,2_187_2,It's so funny because you look more like Joey Tribbiani man slash woman.,True
+731,2_113_1,"No, no the actual cartoon character .. Of course the baloon.",True
+732,2_113_2,"No, not the real cartoon character.. Of course the baloon.",True
+733,2_323_1,That monkey has got a Ross on its ass!,True
+734,2_323_2,That monkey has a Ross on his ass!,True
+735,2_137_1,"Okay, but If he asks, I am not going to lie.",False
+736,2_137_2,"Okay, but if he asks, I'm not gonna lie.",False
+737,2_294_1,"Oh, um, I don't care!",True
+738,2_294_2,I don't care!,True
+739,2_359_1,"You know once you are inside, you don't have to knock anymore.",True
+740,2_359_2,"You know that once you're inside, you don't have to hit anymore.",True
+741,2_141_1,We think it was trying to spell out monkey.,True
+742,2_141_2,We think he was trying to spell the monkey.,True
+743,2_283_1,Dee. The sarcastic sister from What's Happening.,True
+744,2_283_2,"Dee, the sarcastic sister of What's Happening.",True
+745,2_24_1,"Uh, okay. The fifth dentist caved and not they're all recommending Trident?",True
+746,2_24_2,The fifth dentist collapsed and they don't all recommend Trident?,True
+747,2_197_1,Ah your own brand of vigilante justice.,True
+748,2_197_2,"Ah, your own watchful justice mark.",True
+749,2_493_1,Did you tell her about the magical night that starts with the flush of every toilet?,True
+750,2_493_2,Did you tell her about the magic night that starts with the flushing of all the toilets?,True
+751,2_573_1,"Oh I see, I thought you just really really liked your new couch.",True
+752,2_573_2,I thought you really liked your new couch.,True
+753,2_440_1,"No its not big, not at all. Kind of the same lines as, I don't know, having a third nipple!",True
+754,2_440_2,"No, it's not big, not at all. A little the same lines as, I don't know, having a third nipple!",True
+755,2_105_1,Why? You never look down in the shower?  Oh please I am allowed one joke in the monkey is penis genre.,True
+756,2_105_2,"Don't you ever look in the shower? Oh, please, I get a joke in the monkey is like penis.",True
+757,2_3_1,And I think my testicles may be in here too,True
+758,2_3_2,And I think my testicles may be here too.,True
+759,2_71_1,"ThatÕs good, just keep rubbing your head. That will turn back time",True
+760,2_71_2,"That's good, keep rubbing your head.",True
+761,2_20_1,My duties?  All right.,False
+762,2_20_2,My homework?,False
+763,2_463_1,Ok!,False
+764,2_463_2,It's okay!,False
+765,2_602_1,No way!,False
+766,2_602_2,"Oh, my God!",False
+767,2_88_1,Oh.,False
+768,2_88_2,"Oh, right.",False
+769,2_172_1,The whole thing! Can we go?,True
+770,2_172_2,Can we go?,True
+771,2_86_1,"Great! Okay, here.",False
+772,2_86_2,"All right, here.",False
+773,2_154_1,"Okay, does this look like a garbage can to you?",False
+774,2_154_2,Does that look like a trash can to you?,False
+775,2_557_1,"Oh my God, wh-what happened?",False
+776,2_557_2,What happened?,False
+777,2_163_1,"Oh boy, I just can't watch. It's too scary!",True
+778,2_163_2,"I can't look, it's too scary!",True
+779,2_87_1,Yeah it would!,False
+780,2_87_2,"Yes, that's right!",False
+781,2_240_1,No!,False
+782,2_240_2,"Oh, my God!",False
+783,2_267_1,Really!?,False
+784,2_278_1,: Yeah.,False
+785,2_278_2,- Yes.,False
+786,2_284_1,What?  Why?,False
+787,2_284_2,Why?,False
+788,2_340_1,Oh! Oop!,False
+789,2_340_2,"Oh, Oops!",False
+790,2_536_1,What a baby.,False
+791,2_588_1,I talk to you and nothin'.,False
+792,2_588_2,I'm talking to you and nothing.,False
+793,2_448_1,Do you still wanna call  'em? I wanna call  'em.,False
+794,2_448_2,You still want to call them?,False
+795,2_79_1,"I'm just gonna throw it out, it's probably just a bunch of shampoo and...",False
+796,2_79_2,"I'm just gonna throw it away, it's probably just a bunch of shampoo and...",False
+797,2_191_1,"So, you're just Bing?",False
+798,2_99_1,"All right, cut, let's pick again, pick again.",False
+799,2_99_2,"All right, coupons, let's choose again, let's choose again.",False
+800,2_208_1,It's that whole sensitive thing.,False
+801,2_208_2,It's all that sensitive thing.,False
+802,2_119_1,Yeah. What-what should I do?,False
+803,2_119_2,What do I have to do?,False
+804,2_406_1,For what? For letting you throw me out of your office?,True
+805,2_406_2,For letting you throw me out of your office?,True
+806,2_423_1,Like I have nothing better to do!,True
+807,2_423_2,As if I had nothing better to do!,True
+808,2_55_1,"Oh hey, great, you're up. Rachel, this is my sister Krista. Krista, this is Rachel.",False
+809,2_55_2,"Rachel, this is my sister Krista, Krista, this is Rachel.",False
+810,2_77_1,"Umm, excuse me, we switched apartments. You can't eat are food anymore, that-that gravy train had ended.",False
+811,2_77_2,"Excuse me, we've changed our apartment.",False
+812,2_147_1,"Well, we're trying to find someone to perform our wedding and they're all either boring or annoying or y'know, can't stop staring at the ladies.",False
+813,2_147_2,"Well, we're trying to find someone to make our wedding and they're all either boring or boring or you know, can't stop looking at women.",False
+814,2_559_1,What?!?!,False
+815,2_444_1,"Ross-Ross, you have no idea what this means to me!",False
+816,2_444_2,"Ross-Ross, you have no idea what that means to me!",False
+817,2_299_1,What would you give to a kid if he wanted a ticket to play with?,False
+818,2_299_2,What would you give a child if he wanted a ticket to play with it?,False
+819,2_313_1,"Oh sure, go with the sissy.",True
+820,2_313_2,"Of course, go with the sissy.",True
+821,2_125_1,I mean if you hadn't initiated it I-I-I know I would've.,False
+822,2_125_2,"I mean, if you hadn't initiated it, I know I would have.",False
+823,2_552_1,DANGER,False
+824,2_181_1,Yeah! Look!,False
+825,2_181_2,Look!,False
+826,2_107_1,You'd better act surprised.,False
+827,2_107_2,You better be surprised.,False
+828,2_347_1,Well what are you gonna do when he finds out he wasn't even asked?!,False
+829,2_347_2,What are you going to do when he finds out he wasn't even asked?!,False
+830,2_495_1,"Okay, you guys, just relax.  I doooo.",False
+831,2_495_2,Relax.,False
+832,2_525_1,"Y'know what I mean, like dubbies?",False
+833,2_525_2,"You know what I mean, like dubbies?",False
+834,2_186_1,"Excellent hole, Joe.",True
+835,2_506_1,"Oh my God!! Ohh, that is it! I'm leaving! You are just a horrible person!",False
+836,2_506_2,"Oh, my God! Oh, that's it! I'm leaving! You're just a horrible person!",False
+837,2_486_1,"Anyway, they want to take us out Saturday night! What do you say?",False
+838,2_486_2,"Anyway, they want us out on Saturday night.",False
+839,2_149_1,Thank you.,False
+840,2_150_1,"Take your shirt off, and let's see what we're dealing with here.  What are you doing?",False
+841,2_150_2,"Take off your shirt, and let's see what we have to do here.",False
+842,2_12_1,I studied for a year in Barcelona.,False
+843,2_12_2,I studied a year in Barcelona.,False
+844,2_611_1,Just tell me how.,True
+845,2_429_1,"I really, really enjoyed it. Very exotic.",True
+846,2_429_2,"I really enjoyed it, very exotic.",True
+847,2_127_1,"When? Today? Some, not a lot.",False
+848,2_127_2,"A few, not much.",False
+849,2_36_1,"The big deal is I don't want naked, greasy strangers in my apartment when I want to kick back with a puzzle,beer! Cold beer.",False
+850,2_36_2,"The important thing is that I don't want strangers naked and fat in my apartment when I want to go back with a puzzle, beer! Cold beer.",False
+851,2_173_1,We- we had our first fight this morning.,False
+852,2_173_2,We had our first fight this morning.,False
+853,2_295_1,Nobody sees the king!,False
+854,2_295_2,No one sees the king!,False
+855,2_356_1,Yeah.,False
+856,2_356_2,Yes.,False
+857,2_38_1,It's not a real game! I made it up!,False
+858,2_38_2,It's not a real game!,False
+859,2_431_1,I'm never gonna get to meet her anyway.,False
+860,2_431_2,I'll never meet her anyway.,False
+861,2_13_1,"All right, let's do it.",False
+862,2_13_2,"All right, let's go.",False
+863,2_482_1,"Y'know you, you just stop being such a wuss and get those off and you come with us and watch naked girls dance around!!",False
+864,2_482_2,"You know, you just stop being such a bitch and you take that off and you come with us and you watch naked girls dancing!!",False
+865,2_193_1,"Yeah, a slice of cheesecake and-and a date if you're given'  'em out.",False
+866,2_193_2,"Yes, a slice of cheese cake and an appointment if we give them to you.",False
+867,2_203_1,It's not funny!,False
+868,2_426_1,"Are you kidding? I love that guy!  Morning's here! Morning is here,",False
+869,2_426_2,"I love this guy, it's morning, it's morning.",False
+870,2_357_1,"Stating the obvious, but thank you. And it's not weird is it.",True
+871,2_357_2,"It's obvious, but thank you, and it's not weird.",True
+872,2_590_1,"Yeah, I don't think so Joe.",False
+873,2_590_2,"Yeah, I don't think Joe is.",False
+874,2_316_1,"Yeah, I'm fine.",False
+875,2_8_1,"It's white plastic, with a handle, and it fits onto a stroller.",False
+876,2_8_2,"It's white plastic, with a handle, and it adapts to a stroller.",False
+877,2_343_1,"So to sum up, I'm Professor Geller.",False
+878,2_343_2,"To sum up, I'm Professor Geller.",False
+879,2_334_1,"When they're hungry enough, they'll come in.",False
+880,2_367_1,"Well, don't  'cha wanna?",False
+881,2_367_2,Don't you want to?,False
+882,2_51_1,"Well, I believe the piece of furniture was fine until your little breakfast adventure with Angela Delvecchio",False
+883,2_51_2,"Well, I think the furniture was fine until your little breakfast adventure with Angela Delvecchio.",False
+884,2_282_1,What-wh-what so we'll just stay married forever?,True
+885,2_282_2,What are we just gonna stay married forever?,True
+886,2_225_1,"I don't know, something girlie.",False
+887,2_225_2,"I don't know, something girl.",False
+888,2_514_1,What's going on?!  That's what's going on!!,False
+889,2_514_2,What's going on?! That's what's going on!!,False
+890,2_272_1,Weā€™re not peeking?,False
+891,2_272_2,Don't you look?,False
+892,2_43_1,"Well, y'know I'm 29. I mean who needs a savings account.",True
+893,2_43_2,"Well, you know I'm 29, I mean who needs a savings account.",True
+894,2_575_1,Why? Because she can sing and play guitar and do both at the same time?,True
+895,2_575_2,Because she can sing and play guitar and do both at the same time?,True
+896,2_339_1,Thank you.,False
+897,2_69_1,Cover yourself up!,False
+898,2_69_2,Cover up!,False
+899,2_217_1,Ohhh!!!!,False
+900,2_213_1,"Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner?",False
+901,2_213_2,"Wait, Chandler, is that what you want for Thanksgiving dinner?",False
+902,2_96_1,I don't think so. Hello?  When you get in there,False
+903,2_96_2,I don't think so.,False
+904,2_188_1,You had no relationship!!,False
+905,2_188_2,You didn't have a relationship!!,False
+906,2_29_1,It was like months ago.,False
+907,2_29_2,That was months ago.,False
+908,2_177_1,I can show you an ID if you want?,True
+909,2_177_2,Can I show you some ID if you want?,True
+910,2_358_1,"I do not always have to be,okay, okay.",False
+911,2_358_2,"I don't always need to be, okay, okay.",False
+912,2_263_1,Wow! Imagine what our kids would look like!,False
+913,2_263_2,Imagine what our children would look like!,False
+914,2_446_1,"I'd love to show ya, but I just tucked her in.",False
+915,2_446_2,"I'd love to show you, but I just stuck it.",False
+916,2_594_1,I can't believe it.  Can I tell you something? I'm a little mad at him now.,False
+917,2_594_2,"I can tell you something, I'm a little mad at him.",False
+918,2_535_1,"So, I'm sorry I just don't think we should go away together yet.",False
+919,2_535_2,"So, I'm sorry, I don't think we should go together.",False
+920,2_617_1,And protected them from a tornado?,True
+921,2_617_2,And protect them from a tornado?,True
+922,2_210_1,When are you coming home?,False
+923,2_234_1,"See, there you go, the cleansing works!",False
+924,2_234_2,"See, that's it, cleaning's working!",False
+925,2_162_1,"Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.",False
+926,2_162_2,"Ow, Ow, Ow, Ow, Leg cramps, Leg cramps, Leg cramps, Leg cramps.",False
+927,2_437_1,"Oh yeah. First off all, chasing the Churo guy isn't jogging.",False
+928,2_437_2,"First of all, running after the Churo guy is not jogging.",False
+929,2_341_1,"Well, I'd gotten Judy pregnant. I still don't know how that happened.",True
+930,2_341_2,"I got Judy pregnant, I still don't know how it happened.",True
+931,2_318_1,Was it not pain-free?,True
+932,2_318_2,Wasn't it painless?,True
+933,2_579_1,No!,False
+934,2_579_2,"Oh, my God!",False
+935,2_250_1,"Oh, you say someone's name enough, they turn around.",True
+936,2_250_2,"Oh, you're saying someone's name is enough, they're turning around.",True
+937,2_194_1,"And it came out, ""Squatternut buash?""",False
+938,2_194_2,"And he went out, ""Squatternut buash?""",False
+939,2_78_1,"I didn't know you and Carol were getting divorced, I'm sorry.",False
+940,2_337_1,"Uh, listen, I need that broiling pan that Joey borrowed the other day.",False
+941,2_337_2,"Look, I need that stove Joey borrowed the other day.",False
+942,2_435_1,"Me too! There's a game on Tuesday, do you wanna go?",False
+943,2_435_2,"There's a game on Tuesday, you want to go?",False
+944,2_419_1,Uh-huh!,False
+945,2_419_2,What's this?,False
+946,2_564_1,"And, uh, I don't know if you got any of that, but I would really like a copy of the tape.",False
+947,2_564_2,"And, uh, I don't know if you have any of this, but I would really like a copy of the tape.",False
+948,2_261_1,"Oh, no, no. I just meant hypothetically.",False
+949,2_261_2,"No, I just meant hypothetically.",False
+950,2_422_1,"Well, I like it. Here you go.",False
+951,2_422_2,I like it.,False
+952,2_627_1,"Whoa, whoa, whoa.",False
+953,2_627_2,"Whoa, whoa, whoa, whoa.",False
+954,2_445_1,Okay?,False
+955,2_445_2,You okay?,False
+956,2_585_1,"You and I, we're interfacing.",False
+957,2_585_2,You and I are interfering.,False
+958,2_91_1,"Alright, I'm gonna go pick up a few things for the trip.",False
+959,2_91_2,"Okay, I'm gonna go get some stuff for the trip.",False
+960,2_560_1,So now I have to go so he'll think that I'm totally ok with seeing him!,True
+961,2_560_2,So now I have to go so he thinks I totally agree with him!,True
+962,2_425_1,And did he?,False
+963,2_425_2,And he did?,False
+964,2_53_1,You're gonna have to tell me how you did that.,False
+965,2_53_2,You're gonna have to tell me how you did this.,False
+966,2_481_1,All right.,False
+967,2_293_1,No,False
+968,2_293_2,Number,False
+969,2_248_1,"I mean, you and I we're just, y'know, we're nothing, we're goofin' around.",True
+970,2_248_2,"I mean, you and I, we're just, you know, we're nothing, we're going around.",True
+971,2_56_1,"Uh-huh, well! But umm, still I'm-I'm mad at you.",False
+972,2_56_2,But I'm still mad at you.,False
+973,2_260_1,"Okay, are you aware unagi  is an eel?",True
+974,2_260_2,You know that unagi is an eel?,True
+975,2_134_1,Paper cut!,False
+976,2_488_1,"Just a sec, give me a minute to wake up for this,Ah-ha-ha!!",False
+977,2_488_2,"Just a second, give me a minute to wake up for that, Ah-ha-ha!!",False
+978,2_542_1,"Uh, Rachel's here, so good luck man, let me know how it works out.",True
+979,2_542_2,"Rachel's here, so good luck, man, let me know how it works.",True
+980,2_504_1,"All right, okay, well, apparently not!",True
+981,2_504_2,"All right, all right, well, apparently not!",True
+982,2_54_1,"That's easy for you to say, you weren't almost just killed.",True
+983,2_54_2,It's easy for you to say you didn't almost get killed.,True
+984,2_300_1,I don't think you could ever do that.,False
+985,2_300_2,I don't think you can ever do that.,False
+986,2_387_1,"Yes, I know, but her friend sounds like such a...",False
+987,2_387_2,"Yeah, I know, but her friend looks...",False
+988,2_569_1,Chandler?,False
+989,2_569_2,Is that Chandler?,False
+990,2_530_1,"Uh, I'm gonna kill myself!",False
+991,2_530_2,I'm gonna kill myself!,False
+992,2_48_1,"Thanks, but I kinda have a problem to deal with here.",False
+993,2_48_2,"Thanks, but I have a problem here.",False
+994,2_253_1,Yeah!,False
+995,2_555_1,Hey! It's starting to snow.,False
+996,2_555_2,It's starting to snow.,False
+997,2_42_1,"Look, please, please don't go anywhere, okay?",False
+998,2_42_2,"Look, please, don't go anywhere, okay?",False
+999,2_441_1,"He's right, even if it's to say something complementary.",False
+1000,2_218_1,"Hey, does somebody wanna hand me one of those tiles.",False
+1001,2_218_2,Someone wants to give me one of those tiles.,False
+1002,2_415_1,"Chloe, switch with me, there's some guys here that got a crush on you.",False
+1003,2_415_2,"Chloe, trade with me, there are guys who love you.",False
+1004,2_473_1,I'm the supply manager.,False
+1005,2_473_2,I'm in charge of the procurement.,False
+1006,2_537_1,What did you want to show us? Because all I can see is this bitchin van,False
+1007,2_537_2,Because all I can see is this bitch van.,False
+1008,2_397_1,You still love me?,False
+1009,2_397_2,Do you still love me?,False
+1010,2_572_1,No! I'm so happy for them!,False
+1011,2_572_2,I'm so happy for them!,False
+1012,2_243_1,"Look I never should have kissed your girlfriend, but I'm",False
+1013,2_243_2,"Look, I never should've kissed your girlfriend, but I'm",False
+1014,2_474_1,Lovely,True
+1015,2_474_2,It's pretty.,True
+1016,2_245_1,"Well ah, I've been doing a lot of thinking, and I look at my life",False
+1017,2_245_2,"Well, I've been thinking a lot, and I'm looking at my life.",False
+1018,2_176_1,I'm the ruptured spleen.,False
+1019,2_176_2,I'm the broken spleen.,False
+1020,2_58_1,Why?,False
+1021,2_427_1,"Oh-oh, that's a risky little game!",False
+1022,2_427_2,"Oh-oh, it's a risky little game!",False
+1023,2_534_1,"Oh, come on!",False
+1024,2_534_2,Come on!,False
+1025,2_626_1,"Cause all I ever get to do now is pregnant stuff, it just bums me out.",False
+1026,2_626_2,"Because all I have to do right now is pregnancy stuff, it pisses me off.",False
+1027,2_607_1,Hey.,False
+1028,2_607_2,Hello.,False
+1029,2_33_1,"This-this, no, oh no, no-no-no, this is not,that's-that's not what it is.",False
+1030,2_33_2,"No, no, no, no, no, it's not, it's not what it is.",False
+1031,2_44_1,"Whoa, maybe I was!",False
+1032,2_44_2,Maybe I was!,False
+1033,2_189_1,"Yeah okay, I was just talking to the guys. Just look at them I mean, is it okay if they come visit?",True
+1034,2_189_2,"Yeah, I was just talking to the guys, look at them, are they okay if they come to see?",True
+1035,2_232_1,"Well, umm, my Mom's friend, Phoebe, is actually my birth Mom.",False
+1036,2_232_2,"Well, my mother's friend, Phoebe, is actually my mother.",False
+1037,2_400_1,"Anyway, I should go, one of the lifeguards was just about to dismantle a nuclear device.",False
+1038,2_400_2,"Anyway, I should go, one of the rescuers was about to dismantle a nuclear device.",False
+1039,2_230_1,"Okay, Janice. Janice. You gotta give me Janice. That wasn't about being picky.",False
+1040,2_230_2,"Okay, Janice, you have to give me Janice, it wasn't to be difficult.",False
+1041,2_180_1,That oughta do it.,False
+1042,2_180_2,That should do it.,False
+1043,2_270_1,Hey.,False
+1044,2_270_2,Hello.,False
+1045,2_550_1,All right I'll have one.,True
+1046,2_550_2,"All right, I'll take one.",True
+1047,2_454_1,"Ross umm, there's something that I've got to tell you, there's-there's someone else.",False
+1048,2_454_2,"Ross, there's something I need to tell you, there's someone else.",False
+1049,2_151_1,"Yeah, I mean, it would be rude to them for us to leave now.",True
+1050,2_151_2,"Yeah, I mean, it would be rude for them to leave now.",True
+1051,2_439_1,"Twenty-one hours, you're a hero.",False
+1052,2_385_1,"No, I know, but I,he just went on.",False
+1053,2_385_2,"No, I know, but I, he just went on.",False
+1054,2_547_1,"Okay, now much have you won so far?",False
+1055,2_547_2,Have you won a lot so far?,False
+1056,2_65_1,It's my friends.,False
+1057,2_65_2,They're my friends.,False
+1058,2_251_1,No!! You have been screwing us all day!,False
+1059,2_251_2,You've fucked us all day!,False
+1060,2_205_1,"I did not mean to touch that,I mean",False
+1061,2_205_2,"I didn't want to touch that, I mean",False
+1062,2_405_1,I'm supposed to teach a graduate seminar there in ten minutes.,False
+1063,2_405_2,I'm supposed to teach a graduate seminar in ten minutes.,False
+1064,2_375_1,I was thkinking about maybe going into the Robot.,False
+1065,2_375_2,I was saying maybe I was going to the Robot.,False
+1066,2_72_1,Oh well. It probably would've been the most constructive solution.,False
+1067,2_72_2,That would probably have been the most constructive solution.,False
+1068,2_353_1,"Nothing. It's just old and dingy, that's all.",False
+1069,2_353_2,"It's old and dingy, that's all.",False
+1070,2_517_1,Yeah?,False
+1071,2_517_2,Yes?,False
+1072,2_521_1,Uh-huh!,False
+1073,2_521_2,What's this?,False
+1074,2_499_1,The end.,False
+1075,2_317_1,"Ah, oh, hang on a second. Come in, come in. All right, so think about it, and call me back.",False
+1076,2_317_2,"Wait a second, answer, think and call me back.",False
+1077,2_393_1,Pheebs?,False
+1078,2_254_1,"Yeah. Yeah, that's what you need a good .. pill.",True
+1079,2_254_2,"Yeah, that's what you need a good pill.",True
+1080,2_407_1,Hey!,False
+1081,2_407_2,Hello!,False
+1082,2_94_1,"Can't do it, can you?",False
+1083,2_94_2,"You can't do it, can you?",False
+1084,2_198_1,"Yeah, she's fired.",False
+1085,2_365_1,"Nope. Op, wait! There he goes.",False
+1086,2_365_2,Here we go.,False
+1087,2_301_1,"Hey, do you know a six-letter word for red?",False
+1088,2_301_2,Do you know a six-letter red word?,False
+1089,2_540_1,Okay?,False
+1090,2_540_2,You okay?,False
+1091,2_302_1,I know but it's so hard! Nothing rhymes with your stupid name!,False
+1092,2_302_2,"I know, but it's so hard, nothing rhymes with your stupid name!",False
+1093,2_305_1,Take a couple deep breaths.,False
+1094,2_305_2,Take a deep breath.,False
+1095,2_27_1,"No no, you don't have to fly back, really.",False
+1096,2_27_2,"No, no, you don't have to fly, really.",False
+1097,2_196_1,What?,False
+1098,2_264_1,Okay?,False
+1099,2_264_2,You okay?,False
+1100,2_615_1,"Hi, Joey. Well well, look what you brought. Very nice.",False
+1101,2_615_2,Look what you brought.,False
+1102,2_111_1,What was that?!,False
+1103,2_202_1,Yeah?,False
+1104,2_202_2,Yes?,False
+1105,2_577_1,"On the other hand in um, in about seven months you're gonna have something that you're gonna love more than any guy you've ever gone out with.",False
+1106,2_577_2,"On the other hand, in seven months, you'll have something you'll love more than any guy you'll date.",False
+1107,2_467_1,That is the coast guard!,False
+1108,2_467_2,It's the Coast Guard!,False
+1109,2_526_1,"Ah well, this is the living room.",False
+1110,2_526_2,"Well, this is the living room.",False
+1111,2_257_1,"Oh, hey, look, I found coffee! Okay, let's skedaddle.",False
+1112,2_257_2,I found some coffee!,False
+1113,2_259_1,"I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?",False
+1114,2_259_2,"I had a doctor, a nurse and an assistant.",False
+1115,2_609_1,I just called a friend of mine.,False
+1116,2_31_1,"Even if people are on it!""",True
+1117,2_371_1,I-I'm really sorry. It's just that I,False
+1118,2_371_2,I'm so sorry.,False
+1119,2_531_1,"Yeah well that's because uh .. I stayed in my room. Yeah, you don't want to look in my hamper.",False
+1120,2_531_2,"I stayed in my room, you don't want to look in my basket.",False
+1121,2_315_1,"I guess you'd know that, being one of the two of us, though, right?",True
+1122,2_315_2,"I guess you'd know, being one of us, wouldn't you?",True
+1123,2_413_1,Some guy bought it. I'm sorry. I tired to stop it but they put me in jail!,False
+1124,2_413_2,"I'm tired of stopping, but they put me in jail!",False
+1125,2_548_1,"Almost! But first, we gotta start.",True
+1126,2_548_2,"But first, we have to start.",True
+1127,2_128_1,You building a post office?,True
+1128,2_128_2,You're building a post office?,True
+1129,2_326_1,Stick to the list.,False
+1130,2_326_2,Stay on the list.,False
+1131,2_247_1,Uh yes! Thank you.,True
+1132,2_247_2,"Yes, thank you.",True
+1133,2_576_1,And then for forgetting to invite you to it.,False
+1134,2_576_2,And then for forgetting to invite you.,False
+1135,2_146_1,"So Ross, how umm, how did it go with Bonnie?",False
+1136,2_146_2,"Ross, how'd it go with Bonnie?",False
+1137,2_458_1,What are you up too?,False
+1138,2_458_2,"What are you doing, too?",False
+1139,2_522_1,Yes it is.,False
+1140,2_522_2,Yes.,False
+1141,2_30_1,So how'd it go?,False
+1142,2_171_1,What is the matter with your face?!,False
+1143,2_171_2,What's with your face?,False
+1144,2_97_1,It would be nice to have a little guarantee though.,True
+1145,2_97_2,It'd be nice to have a little guarantee.,True
+1146,2_228_1,Then we went to this bar and he hooked us up with all these women!,False
+1147,2_228_2,Then we went to this bar and he hung us up with all those women!,False
+1148,2_7_1,I've never loved anybody as much as I love you.,False
+1149,2_7_2,I've never loved anyone as much as I love you.,False
+1150,2_553_1,"No just, nobody press on my stomach.",False
+1151,2_553_2,"No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,",False
+1152,2_291_1,"Umm, would you please excuse me for a moment?",False
+1153,2_291_2,"Umm, would you excuse me for a moment?",False
+1154,2_319_1,No.,False
+1155,2_319_2,"Oh, my God.",False
+1156,2_314_1,Am I out of control?,False
+1157,2_410_1,If you wanna put a label on it.,True
+1158,2_410_2,If you want to put a label on it.,True
+1159,2_166_1,But I'm the host!,False
+1160,2_558_1,I can see it from right here. It'll cost you one husband.,True
+1161,2_558_2,"I can see him from here, it'll cost you a husband.",True
+1162,2_289_1,"Nooo! No, that's not true. No, best time ever! Yeah, you rocked my world!",True
+1163,2_289_2,"No, it's not. It's the best time!",True
+1164,2_118_1,"Seriously, it's moving!",False
+1165,2_28_1,"Carol called me to thank me for the lasagna, I asked, she told me.",False
+1166,2_562_1,"Look now, Phoebe remember, hey, their just fulfilling their Christmas....",False
+1167,2_562_2,"Look, Phoebe remembers, hey, their just fulfillment of their Christmas...",False
+1168,2_231_1,"No, no, no, it's flattery.",False
+1169,2_231_2,"No, it's flattering.",False
+1170,2_388_1,"Yeah, she couldn't live without the Chan Love.",False
+1171,2_388_2,She couldn't live without Chan Love.,False
+1172,2_102_1,No Blanche she is upset because they keep changing the taste of coke.,True
+1173,2_102_2,She's not angry because they change the taste of coke.,True
+1174,2_351_1,"No Rose, she is depressed because Marvel had manners on only once a week",True
+1175,2_351_2,"No Rose, she's depressed because Marvel only had good manners once a week.",True
+1176,2_350_1,"No Rose, I am nervous because Sonny Bono gets elected mayor of Palm Springs, he is gonna make all the postmens wear leather bell bottoms and a fur vest.",True
+1177,2_350_2,"No Rose, I'm nervous because Sonny Bono is elected mayor of Palm Springs, he's going to make all the mailers wear leather bell stockings and a fur vest.",True
+1178,2_587_1,"Oh yes Blanche, about a half hour ago. But now I have hidden her again so you can find her.",True
+1179,2_587_2,"Oh, yeah, Blanche, about half an hour ago, but now I hid it again so you could find it.",True
+1180,2_612_1,"I don't know Rose, maybe Marry Poppins has an Italian cousin.",True
+1181,2_89_1,On the home shopping network,True
+1182,2_89_2,On the home buying network,True
+1183,2_599_1,No I am upset because crocodin turbs are wearing darker colors.,True
+1184,2_599_2,"No, I'm upset because crocodins wear darker colors.",True
+1185,2_182_1,The liberarche marquee at Caesar's palace,True
+1186,2_182_2,The Marquise of the Liberarchy at Caesar's Palace,True
+1187,2_292_1,"No, she is going to sit here where itÕs a 112 degrees and eat enchiladas.",True
+1188,2_292_2,"No, she's gonna sit here where it's 112 degrees and eat enchiladas.",True
+1189,2_489_1,"No, its because I cannot make any sense of those commercials for obsession.",True
+1190,2_489_2,"No, it's because I can't understand these obsession ads.",True
+1191,2_390_1,"No, I am depressed becaues Phillis George left the morning news.",True
+1192,2_390_2,"No, I'm depressed because Phillis George left the morning news.",True
+1193,2_378_1,"No Blanche, with a venus fly trap",True
+1194,2_378_2,"No White, with a venous fly trap",True
+1195,2_9_1,"No Rose, go to the corner and open a stand",True
+1196,2_9_2,"No Rose, go to the corner and open a stand.",True
+1197,2_144_1,Lords of Arabia,True
+1198,2_479_1,No I am worried she might be Phir Resuda's,True
+1199,2_479_2,"No, I'm afraid she's Phir Resuda's.",True
+1200,2_45_1,"Oh ma no, it was a little girl selling girl scout toilets.",True
+1201,2_45_2,"Oh, no, it was a little girl selling toilets.",True
+1202,2_507_1,"No, I haven't taken her out of the trunk of the car yet.",True
+1203,2_507_2,"No, I haven't gotten it out of the trunk of the car yet.",True
+1204,2_398_1,"Rose, you should sit here and watch her hack herself to death",True
+1205,2_398_2,"Rose, you should sit here and watch her hack to death.",True
+1206,2_281_1,"Ofcourse no Ma, I am referring to Carrey Grant, he is living in the broom closet.",True
+1207,2_281_2,"Of course not, I'm talking about Carrey Grant, he lives in the broom closet.",True
+1208,2_591_1,"How about stopping by new years eve with three naked women, throwing up in the pool, passing out in the punch bowl, and relieving yourself in the linen closet?",False
+1209,2_591_2,"How about stopping on the eve of the new years with three naked women, vomiting in the pool, going through the punch bowl, and relieving yourself in the laundry closet?",False
+1210,2_462_1,"No Rose, at a pie eating contest.",True
+1211,2_462_2,"No, Rose, at a pie contest.",True
+1212,2_505_1,To feed the cat Rose.,True
+1213,2_74_1,Show them your slides of Hawaii,True
+1214,2_74_2,Show them your Hawaii slides,True
+1215,2_126_1,No I am upset because Joe Piscapo didn't get the lead role in rain man.,True
+1216,2_126_2,"No, I'm upset because Joe Piscapo didn't have the lead role in the rain man.",True
+1217,2_158_1,A bucket of chicked. I hope you like it extra flat and crispy,True
+1218,2_158_2,I hope you like it extra flat and crispy.,True
+1219,2_255_1,It's a musical Rose,True
+1220,2_255_2,It's a musical Rose.,True
+1221,2_502_1,I'm worried about whether Michael Jackson will be able to buy the remains of the elephant man.,True
+1222,2_502_2,I'm worried if Michael Jackson can buy the remains of the elephant.,True
+1223,2_11_1,His cappucino maker.,True
+1224,2_11_2,Its cappucino manufacturer.,True
+1225,2_135_1,"No, she I supset because Jimmy Swaager can't cover his motel bill",True
+1226,2_135_2,"No, it's because Jimmy Swaager can't cover his motel bill.",True
+1227,2_442_1,No itÕs the rose in the kitchen thing.,True
+1228,2_442_2,"No, it's the rose in the kitchen.",True
+1229,2_342_1,"In what Blanche, dog years?",True
+1230,2_342_2,"In what white years, bitch?",True
+1231,2_492_1,"I'm sorry Sophia, but in Dorothy's defence, it sure sounds a lot like her.",True
+1232,2_492_2,"I'm sorry, Sophia, but for Dorothy's defense, it looks a lot like him.",True
+1233,2_512_1,Because it wears a little sunbrella Rose.,True
+1234,2_512_2,Because he's wearing a little sunbrella rose.,True
+1235,2_121_1,What was I doing? My ben gazara in person?,True
+1236,2_121_2,What was I doing?,True
+1237,2_129_1,What are these? Claws?,True
+1238,2_129_2,What is it?,True
+1239,2_222_1,"The little man who lives in there, who turns the light on and off will tell you.",True
+1240,2_222_2,"The little man who lives in there, who lights up and turns off the light will tell you.",True
+1241,2_604_1,"No Rose, I am developing pictures from the magellan space probe",True
+1242,2_604_2,"No Rose, I am developing images of the Magellan space probe",True
+1243,2_352_1,"No Rose, it stands alone.",True
+1244,2_352_2,"No, Rose, she's all alone.",True
+1245,2_344_1,A hand puppet Rose.,True
+1246,2_344_2,A pink hand puppet.,True
+1247,2_465_1,"No Rose, that you should do.",True
+1248,2_465_2,"No, Rose, that you should do.",True
+1249,2_471_1,Amazing.,True
+1250,2_471_2,Unbelievable.,True
+1251,2_361_1,Nooo,True
+1252,2_190_1,Well scott I am sure we are all really really looking forward to hear your story.,True
+1253,2_190_2,"Well, Scott, I'm sure we're all really looking forward to hearing your story.",True
+1254,2_271_1,Sarcasm? Noo.,True
+1255,2_271_2,- Sarcasm?,True
+1256,2_306_1,"No, no no, I just mediate the gorup. I just give up every Tuesday of my life to help these screwups for the good of my health",True
+1257,2_306_2,"No, no, I'm just the gorp mediator. I just give up every Tuesday of my life to help those damned people for the good of my health.",True
+1258,2_209_1,Really?,True
+1259,2_312_1,Sarcasm? At a sarcasmoholics meeting?,True
+1260,2_312_2,At a sarcasmoholics meeting?,True
+1261,2_485_1,You got off to a really good start with the group.,True
+1262,2_485_2,You made a good start with the band.,True
+1263,2_527_1,We thought you were just here for the company. He is a sarcasmoholic Stewart.,True
+1264,2_527_2,"We thought you were here for the company, it's a sarcasmoholic Stewart.",True
+1265,2_596_1,Noooo. Really?,True
+1266,2_596_2,Really?,True
+1267,2_123_1,Nooo!,True
+1268,2_123_2,"Oh, my God!",True
+1269,2_140_1,Sarcastic? Us? Nooo.,True
+1270,2_140_2,"Sarcastic, us?",True
+1271,2_338_1,And I am sure every person here really really wants you to join our group.,True
+1272,2_338_2,And I'm sure everyone here really wants you to join our band.,True
+1273,2_381_1,Noo..,True
+1274,2_381_2,"No, it's not.",True
+1275,2_511_1,"You said you spent all that money because those boots go with skirts, dresses and pants. What do you plan on wearing? A Chicken suit?",True
+1276,2_511_2,"You said you spent all that money because those boots go with skirts, dresses and pants.",True
+1277,2_287_1,"Oh I am sorry, do you need a break?",True
+1278,2_287_2,"Oh, I'm sorry, you need a break?",True
+1279,2_161_1,I can see it from right here. It'll cost you one husband.,True
+1280,2_161_2,"I can see him from here, it'll cost you a husband.",True
+1281,2_589_1,Well why don't you check in one of my saddle bags while I chew on a bale of hay.,True
+1282,2_589_2,Check one of my saddle bags while I chew a hay ball.,True
+1283,2_523_1,"Well, I'm a headhunter. I hook up out of work Soviet scientists with rogue third-world nations. Hi Rasputin!",True
+1284,2_523_2,"I am a head hunter, I work with Soviet scientists and Third World nations.",True
+1285,2_491_1,"Let me think! Let me think! Oh, I don't care.",True
+1286,2_491_2,Let me think!,True
+1287,2_170_1,The British are coming?,True
+1288,2_500_1,Oh my God I love that! - Really? - NO!,True
+1289,2_500_2,"Oh, my God, I love it!",True
+1290,2_303_1,No thanks Josephine!,True
+1291,2_303_2,"No, thank you, Josephine!",True
+1292,2_570_1,"Oh my god, where are all the men?",False
+1293,2_570_2,"Oh, my God, where are all the men?",False
+1294,2_178_1,"This is so good, that I am gonna enjoy it in the balcony. I can enjoy my view, whilst I enjoy my desert.",True
+1295,2_178_2,"It's so good, I'll enjoy it in the balcony. I can enjoy my view, while I love my desert.",True
+1296,2_438_1,Really? Struck down in the prime of life.,True
+1297,2_438_2,It's in the bounty of life.,True
+1298,2_167_1,"I am not freaking out, why would I be freaking out? A woman named Hildy called and said we will get married, but that happens everyday",True
+1299,2_167_2,"A woman named Hildy called and said we're getting married, but it happens every day.",True
+1300,2_373_1,I was making a coconut phone with a professor.,True
+1301,2_373_2,I was making a coconut phone with a teacher.,True
+1302,2_623_1,What do you know? Its a treat for the eyes and the ears.,True
+1303,2_623_2,It's a pleasure for the eyes and ears.,True
+1304,2_131_1,I really don't wanna sit with Allen Iverson over there .,False
+1305,2_131_2,I really don't want to sit with Allen Iverson over there.,False
+1306,2_236_1,"Gee, if only she were one and had no idea what a birthday was.",True
+1307,2_236_2,If only she was one and she didn't know what a birthday was.,True
+1308,2_546_1,"Oh sure, she was probably up all night excited about the party she knows is happening.",True
+1309,2_546_2,She was probably excited all night about the party she knows.,True
+1310,2_242_1,Are you still enjoying your nap?,True
+1311,2_242_2,Do you still like your nap?,True
+1312,2_169_1,"Hes not right for the part, and if I suggest him my bosses are going to think I am an idiot. And thatÕs something they should learn on their own.",True
+1313,2_169_2,"He's not good for the role, and if I suggest it my bosses will think I'm an idiot, and that's something they should learn for themselves.",True
+1314,2_235_1,"Oh yeah he has a caretaker his older brother, Ernie. You can't make this stuff up!",False
+1315,2_235_2,"Oh yes, he has a guard, his older brother, Ernie, you can't invent that!",False
+1316,2_34_1,Is it me or the greetings gone downhill around here?,True
+1317,2_34_2,Is it me or did the greetings fall here?,True
+1318,2_608_1,"You are right, by saying nice, I am virtually licking her.",True
+1319,2_608_2,"You're right, by saying nice, I almost lick it.",True
+1320,2_524_1,"Yes and we are ""very"" excited about it.",True
+1321,2_524_2,"Yes and we're ""very"" excited about it.",True
